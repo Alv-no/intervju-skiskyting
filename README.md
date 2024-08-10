@@ -1,2 +1,2 @@
 # intervju-eqtiming
-Teknisk intervju i SQL og Python med bruk av data fra EqTiming.
+Teknisk intervju i SQL/Python med bruk av data fra EqTiming.
