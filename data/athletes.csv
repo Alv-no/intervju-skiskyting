@@ -1,1076 +1,171 @@
 ﻿AthleteId,Name,Gender,ClubId,Club,TeamId,Team,Class,Country,BirthYear
 102070," Jon Per  Nygaard",m,13915,Øversjødalen Skiskytterlag,0,,M Senior,Norway,1967
-107524,Johanne Hauge Harviken,f,13847,Hernes IL,0,,K Senior,Norway,1997
 1106184,Torjus Fossli,m,13804,Fyresdal Skiskyttarlag,0,,M Senior,Norway,1997
-113145,Bendik Vereide,m,13895,Stårheim IL,0,,M20-22,Norway,2002
-116079,Tobias Slaatto,m,13859,Geilo IL,0,,M20-22,Norway,2002
-116080,Vilde Slaatto,f,13859,Geilo IL,14678,Team Geilo,K20-22,Norway,2004
-1271802,Troy Tangen,m,13564,Bossekop UL,0,,M19,Norway,2001
-1271814,Marita Steffensen,f,2609,Båtsfjord Sportsklubb,13587,NTG-T,K17,Norway,2002
-1271815,Anneli Aamo,f,6141,Nordreisa Idrettslag,13591,Nordreisa vgs,K17,Norway,2002
-1272872,Birk Fjellheim,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M17,Norway,2003
-1272967,Emil Tørset Frisk,m,13561,Oppdal IL,15510,Team Meråker Skiskyting,M19,Norway,2005
-1357034,William Cumbes Pedersen,m,14638,Tinn Skiskytterlag,13585,NTG Geilo,M19,United Kingdom,2005
 1362542,Aksel Mathias Meland,m,13912,Markane IL,13951,Team Kongsberg,M Senior,Norway,1999
-1362581,Even Kjøsen Unsgård,m,13874,"Leik, IL",0,,M19,Norway,2000
-1362652,Anton Martinus Haugen Nustad,m,13870,Vingrom IL,15168,Team Blåne,M17,Norway,2003
 1382769,Thomas Gifstad,m,13925,Oslo Skiskytterlag,0,,M Senior,Norway,1992
-1383025,Ida Emilie Herfoss,f,13556,Drangedal Idrettslag,0,,K Senior,Norway,1995
-1385516,Isak Solli Søllesvik,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M18,Norway,2006
-1428460,Nora Njølstad Randby,f,4815,Ivrig IL,13585,NTG Geilo,K19,Norway,2005
-1428472,Sindre Rosenlund,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M17,Norway,2005
-1428475,Mathias Taalesen Tjøntveit,m,13890,Svene IL,15632,Wang Toppidrett Romerike,M18,Norway,2006
-1428490,Vetle Schaug Aarstad,m,13898,Bærums Skiklub,15163,Dønski VGS,M19,Norway,2003
-1428502,Elisabeth Hartz Braathen,f,6091,Simostranda IL,13585,NTG Geilo,K17,Norway,2003
-1428507,Erland Solum,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2004
-1428510,Håkon Røste Thomassen,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2004
-1428511,Aslak Aasand,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2004
-1428516,Tobias Stolen Antonsen,m,13942,IL Bevern,13951,Team Kongsberg,M19,Norway,2003
-1428517,Sverre Kornmo Enger,m,13804,Fyresdal Skiskyttarlag,13569,Sirdal Ski Skiskyting,M19,Norway,2003
-1428526,Håvard Såghus Winterkjær,m,6946,Gjerstad IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,2003
-1428541,Vilde Aurora Gusevik Skotland,f,13567,"Try, Idrettslaget",0,,K Senior,Norway,1998
 1428544,Jørgen Brendengen Krogsæter,m,13784,Ullensaker SK,0,,M Senior,Norway,1998
-1429224,Christian Brennhovd Bang,m,13805,Asker SK,14681,Team OASSK,M20-21,Norway,1998
-1470533,Thomas H. Øverland,m,13857,Seljord Idrettslag,13570,Team TeVe,M19,Norway,2002
-1472061,Eivind Gaastjønn,m,13804,Fyresdal Skiskyttarlag,13951,Team Kongsberg,M20-22,Norway,2002
-1472063,Are Sæther Midtbø,m,13804,Fyresdal Skiskyttarlag,13570,Team TeVe,M17,Norway,2003
-1481342,Vilde Linnéa Vigerust,f,13796,Østre Toten Skilag,13586,NTG Lillehammer,K17,Norway,2007
-1482389,Ivar Eldor Finbakken,m,13865,Målselvs Skiskyttere,0,,M17,Norway,2005
-1483993,Ida Bruce Fiskum,f,13867,Snåsa Skiskytterlag,0,,K18,Norway,2006
-1484041,Konrad Estil,m,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,M17,Norway,2006
-1484053,Casper Aunli,m,13835,Steinkjer SK,16901,Team Innherred,M18,Norway,2006
 1562650,Bendik Winsvold,m,7941,Lier IL,14678,Team Geilo,M Senior,Norway,1997
-1623807,Astrid Øyre Slind,f,4791,Byåsen Skiskytterlag,0,,K Senior,Norway,1988
-1624874,Oskar Kristian Gisleberg,m,13779,Søndre Ål Sportsklubb,13572,Team Lygna skiskyting,M18,Norway,2002
 1625378,Vebjørn Sørum,m,13779,Søndre Ål Sportsklubb,0,,M Senior,Norway,1998
-1670265,Sander Gravelsæter Søreng,m,13938,Fana IL,15512,Team Gla'Laks Biathlon,M19,Norway,2005
-1681154,Vilde Børseth,f,2576,Bjerke IL Ski,13951,Team Kongsberg,K Senior,Norway,2001
-1682463,Sander Rystad Sæther,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M19,Norway,2005
-1686442,Brede Bygjordet Eriksen,m,6449,"Ørn, Idrettsforening",13570,Team TeVe,M17,Norway,2003
-1688404,Synnøve Solemdal,f,13838,Tingvoll IL,0,,K Senior,Norway,1989
-1771938,Olav Gjedrem Lund,m,13922,Vinne Skilag,0,,M20-22,Norway,2003
-1771939,Torstein Gjedrem Lund,m,13922,Vinne Skilag,0,,M19,Norway,2005
-1772411,Linus Stilson Arstad,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M18,Norway,2006
-1772444,Elida Fuglem,f,13896,Valldal IL,13589,Stryn Videregående Skole,K19,Norway,2005
-1772445,Heine Fuglem,m,13896,Valldal IL,13589,Stryn Videregående Skole,M17,Norway,2007
-1773986,Bjørnar Fosse Vaksdal,m,13541,Voss Skiskytterlag,0,,M19,Norway,2003
 1778366,Filip Fjeld Andersen,m,13859,Geilo IL,0,,M Senior,Norway,1999
-1810732,Ingela Andersson,f,0,,14671,Holmenkollen Biathlon,K Senior,Norway,1991
-1811496,Johanne Øien Persen,f,13935,Nordkyn IL,13591,Nordreisa vgs,K19,Norway,2001
-1811554,Erik Gulstad,m,13927,Tromsø Skiskytterlag,0,,M17,Norway,2003
-1811632,Henning Strand,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,2003
-1832806,Anne-Marie Roset,f,13912,Markane IL,13589,Stryn Videregående Skole,K19,Norway,2000
 1891104,Rasmus August Schiellerup,m,13859,Geilo IL,14678,Team Geilo,M Senior,Denmark,2001
-1897237,Ulrik Hekneby,m,13940,Fossum IF,15631,Wang Toppidrett Oslo,M17,Norway,2007
-1898657,Mille Lovise Storvik Martinussen,f,13940,Fossum IF,15163,Dønski VGS,K19,Norway,2003
-1899359,Alexandra Angelin Valen,f,13906,Bossmo & Ytteren IL,0,,K19,Norway,2000
-1905867,Ingrid Knippen Kvernsmyr,f,4815,Ivrig IL,13585,NTG Geilo,K17,Norway,2007
-1905977,Perle Nystu,f,6141,Nordreisa Idrettslag,15190,Nordnorsk Skilinje,K Senior,Norway,2003
-1909218,Nora Flotten Volden,f,13561,Oppdal IL,13951,Team Kongsberg,K20-22,Norway,2003
-1927574,Louise Petersen Wiggen,f,13940,Fossum IF,15631,Wang Toppidrett Oslo,K19,Norway,2005
-1934063,Christoffer Eidissen,m,13567,"Try, Idrettslaget",13590,Wang Toppidrett,M19,Norway,2001
-1934087,Mari Øverby,f,13942,IL Bevern,13951,Team Kongsberg,K17,Norway,2003
-1943442,Nora Landerud Svingen,f,13890,Svene IL,13951,Team Kongsberg,K Senior,Norway,1999
 1943587,Herman Ingolf Erdal,m,13790,Førde IL,0,,M Senior,Norway,1967
-1943743,Lars Hammernes Leopold,m,13805,Asker SK,14677,Team Maxim,M20-21,Norway,1999
 1944237,Isak Nikolai Hopland,m,13845,Hardbagg IL,13951,Team Kongsberg,M Senior,Norway,1998
 1948607,Håvard Gutubø Bogetveit,m,13790,Førde IL,14677,Team Maxim,M Senior,Norway,1992
 1948916,Endre Strømsheim,m,13898,Bærums Skiklub,0,,M Senior,Norway,1997
 1948945,Dag Sander Bjørndalen,m,6091,Simostranda IL,14671,Holmenkollen Biathlon,M Senior,Norway,1998
 1948946,Herman Dramdal Borge,m,13890,Svene IL,16839,"Team 1,5",M Senior,Norway,1997
-1948976,Sigrid Bredde VIG,f,13931,Drammen Strong,14671,Holmenkollen Biathlon,K Senior,Norway,1999
 1948991,Øyvind Aalling Lio,m,2576,Bjerke IL Ski,14671,Holmenkollen Biathlon,M Senior,Norway,1998
-2117344,Ane Sandaker Kvittingen,f,13859,Geilo IL,14678,Team Geilo,K Senior,Norway,1989
-2117512,Hilde Eide,f,13919,Øystre Slidre SSL,0,,K Senior,Norway,1996
 2117743,Lasse Virkesdal,m,13879,Vik IL,13946,Team Glalaks,M Senior,Norway,1997
-2118020,Jonas Bogen Øye,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-22,Norway,1998
 2118031,Aleksander Morsund Karlsen,m,7941,Lier IL,14670,Team Woodcon,M Senior,Norway,1996
 2118153,Isak Leknes Frey,m,13898,Bærums Skiklub,0,,M Senior,Norway,2003
-2118188,Silje Gløtheim,f,6692,Røros IL,14634,Trondheim Biathlon Team,K Senior,Norway,1997
-2118190,Birk Otto Strøm,m,13925,Oslo Skiskytterlag,0,,M18,Norway,2001
-2118305,Magnus Fjerdingen Moan,m,6692,Røros IL,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-2118444,Elise Aasbø,f,13942,IL Bevern,13951,Team Kongsberg,K19,Norway,2005
-2118762,Thomas Lysberg Lehn,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2004
 2119822,Øystein Markegård,m,13859,Geilo IL,0,,M Senior,Norway,1998
-2120283,Ida Høsøien,f,13812,Tynset IF,15214,Team Savalen,K19,Norway,2005
-2120298,Adrian Ueland,m,15509,Sandnes og Gjesdal SSL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-2120299,Tiril Kampenhaug Eckhoff,f,13940,Fossum IF,0,,K Senior,Norway,1990
 2120302,Tarjei Bø,m,13912,Markane IL,0,,M Senior,Norway,1988
 2120304,Johannes Thingnes Bø,m,13912,Markane IL,0,,M Senior,Norway,1993
-2120327,Camilla Helene Hals,f,13567,"Try, Idrettslaget",15511,Team Fossum Elite,K Senior,Norway,2001
-2120466,Hermann Stensby,m,13847,Hernes IL,14670,Team Woodcon,M20-21,Norway,1999
-2121418,Herman Peder Strindeberg,m,13931,Drammen Strong,14678,Team Geilo,M20-22,Norway,2004
-2121808,Mathilde Lillevold,f,7182,Meråker Skiskytterklubb,13584,Meråker Videregående skole,K19,Norway,2000
-2122323,Amalie Storlien,f,13921,MjøsSki,14436,Team Toyota Slettum Bil,K18,Norway,2002
-2122533,Amalie Vestues Svingen,f,13893,Trysilgutten IL,0,,K17,Norway,2005
-2122627,Sivert Kristian Rusten,m,7941,Lier IL,14721,Team Hugaas,M20-22,Norway,2004
-2122673,Kevin Brekken Ramsfjell,m,6239,Figgjo IL,0,,M20-22,Norway,2000
-2122872,Guro Femsteinevik,f,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,K20-22,Norway,2004
 2122899,Stian Fedreheim,m,13847,Hernes IL,0,,M Senior,Norway,2003
-2123020,Olav Lanes Severinsen,m,13927,Tromsø Skiskytterlag,15165,Team Arctic Biathlon,M20-22,Norway,1998
-2123066,Ingeborg Stramrud-Torsæter,f,13921,MjøsSki,0,,K17,Norway,2005
-2123122,Truls Bonden Hørthe,m,7941,Lier IL,16839,"Team 1,5",M20-22,Norway,2003
-2123143,Fredrik Nystrand,m,13921,MjøsSki,15214,Team Savalen,M19,Norway,2005
-2123207,Lars de Bartolo,m,6946,Gjerstad IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,2001
-2123466,Joakim Rugsveen Grinden,m,13812,Tynset IF,15214,Team Savalen,M20-22,Norway,2003
-2123648,Tor Erling Pommeresche Aasprang,m,13838,Tingvoll IL,0,,M18,Norway,2002
-2123823,Thomas Kristiansen,m,13554,Fet SK,0,,M17,Norway,2002
-2123835,Henrik Omland,m,13552,Nittedal Skiskytterlag,0,,M18,Norway,2005
-2123852,Linn Bjørdal Kristiansen,f,13898,Bærums Skiklub,0,,K18,Norway,2002
-2123862,Astrid Lurås-Henriksen,f,13898,Bærums Skiklub,15163,Dønski VGS,K19,Norway,2003
-2123946,Tobias Tandre Melbye,m,13898,Bærums Skiklub,0,,M17,Norway,2003
-2124042,Tuva Andersen,f,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,K19,Norway,2005
-2124090,Anna Øfsthus Gravir,f,13805,Asker SK,0,,K18,Norway,2001
 2124123,Mads Huken Mathiesen,m,13784,Ullensaker SK,0,,M Senior,Norway,2001
-2124135,Sebastian Rød Feragen,m,13812,Tynset IF,0,,M17,Norway,2003
-2124165,Simen Hansæl-Nergaard,m,13913,Kvikne IL,15214,Team Savalen,M18,Norway,2006
 2124207,Jens Petter Toresen,m,13925,Oslo Skiskytterlag,14671,Holmenkollen Biathlon,M Senior,Norway,1996
-2124209,Thomas Austheim,m,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,M19,Norway,2001
-2124242,Vegard Jermstad,m,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,M19,Norway,2003
-2124335,Jonas Landsem Kristiansen,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M20-22,Norway,2001
-2124346,Tobias Grim Frøytland,m,13806,Øvrebø IL,0,,M19,Norway,2001
-2124351,Sigve Havik Nysæter,m,13863,Stiklestad IL,16901,Team Innherred,M20-22,Norway,2004
-2124373,Emil Vassbotten Apeland,m,13558,Idrettslaget Dyre Vaa,13569,Sirdal Ski Skiskyting,M19,Norway,2004
-2124384,Ingrid Reitan,f,13562,Skatval Skilag,0,,K17,Norway,2003
-2124428,Halvard Johannesen Livik,m,7182,Meråker Skiskytterklubb,0,,M19,Norway,2005
-2124448,Borghild Skjellberg,f,13865,Målselvs Skiskyttere,0,,K18,Norway,2004
-2124474,Martine Torkildsen,f,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,K17,Norway,2007
-2124942,Maren Torvanger Brunvoll,f,13940,Fossum IF,15631,Wang Toppidrett Oslo,K18,Norway,2006
-2124999,Tobias Vogt Vold,m,13940,Fossum IF,0,,M18,Norway,2006
-2125245,Maria Landrø Monsen,f,13902,Orkdal IL,14723,Team Knyken,K18,Norway,2002
-2125381,Victoria Klevan Dybwad,f,13940,Fossum IF,15163,Dønski VGS,K18,Norway,2002
-2125712,Eivind Fjærbu,m,13897,Froland IL,0,,M20-22,Norway,2000
-2125750,Sander Røed Normann,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,2003
-2125924,Guro Elizabeth Strindeberg,f,13931,Drammen Strong,13585,NTG Geilo,K18,Norway,2006
-2126403,Erlend Svalbjørg,m,13925,Oslo Skiskytterlag,0,,M20-22,Norway,2003
-2126450,Mie Amstel Boretti,f,13925,Oslo Skiskytterlag,13586,NTG Lillehammer,K19,Norway,2005
-2126555,Vegard Brones Stenersen,m,13865,Målselvs Skiskyttere,0,,M19,Norway,2004
-2126639,Eirik Fjelddahl Hagen,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M17,Norway,2003
-2126724,Martin Jørstad Ringli,m,13815,Øystre Slidre IL,13585,NTG Geilo,M19,Norway,2005
-2126732,Sigrid Haug Grønnerød,f,13817,Ål Skiskyttarlag,13951,Team Kongsberg,K20-22,Norway,2002
-2126739,Elise Eidsli,f,6612,Skaun IL,14723,Team Knyken,K18,Norway,2002
-2126742,Eirik Irgum,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M19,Norway,2003
-2126744,Jakob Wallenius,m,13925,Oslo Skiskytterlag,16903,Team Woodcon,M20-22,Norway,2004
-2126945,Kristine Vedal,f,13867,Snåsa Skiskytterlag,16901,Team Innherred,K20-22,Norway,2004
-2126999,Oliver Larsen,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M20-22,Norway,2004
-2127137,Magnus Riseth Pedersen,m,13835,Steinkjer SK,16901,Team Innherred,M20-22,Norway,2004
 2127359,Øyvind Henanger Halvorsen,m,6660,Hålandsdal IL,0,,M Senior,Norway,2002
-2127369,Elise Solum Bakken,f,13867,Snåsa Skiskytterlag,15510,Team Meråker Skiskyting,K20-22,Norway,2003
-2127370,Linnea Solum Bakken,f,13867,Snåsa Skiskytterlag,15510,Team Meråker Skiskyting,K18,Norway,2006
-2127531,Andreas Aas,m,13928,Birkenes IL,0,,M20-22,Norway,2003
-2127599,Alida Oftedal,f,6239,Figgjo IL,0,,K18,Norway,2004
-2127601,Magnar Ryttervoll,m,6692,Røros IL,15214,Team Savalen,M19,Norway,2005
-2128302,Eirin Tangen,f,13812,Tynset IF,15214,Team Savalen,K19,Norway,2005
-2128338,Vegard Gregersen,m,13870,Vingrom IL,15168,Team Blåne,M17,Norway,2003
-212956,Anders Horvei,m,7189,Gjerdrum IL,0,,M20-22,Norway,2001
-2129639,Martine Bergan Berghagen,f,6091,Simostranda IL,15510,Team Meråker Skiskyting,K20-22,Norway,2004
-2129653,Vebjørn Horn,m,4815,Ivrig IL,13570,Team TeVe,M19,Norway,2005
-2132688,Mina de Lange Claussen,f,13898,Bærums Skiklub,14671,Holmenkollen Biathlon,K20-22,Norway,1999
-2132692,Ola Oanes SOLBAKKEN,m,13864,Trondhjems Skiskyttere,0,,M20-21,Norway,1999
-2175563,Kevin Brun Bjelland,m,15509,Sandnes og Gjesdal SSL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-2175566,Solveig Eikeland Gjøen,f,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,K19,Norway,2004
-2177843,Hildegunn Vekseth,f,13867,Snåsa Skiskytterlag,0,,K20-22,Norway,1999
-2178972,Vetle Idland,m,6239,Figgjo IL,13588,Sirdal Videregående skole,M17,Norway,2006
-2178980,Marius Ueland,m,15509,Sandnes og Gjesdal SSL,13569,Sirdal Ski Skiskyting,M17,Norway,2005
-2222993,Oda Byvold Grønlien,f,13870,Vingrom IL,16903,Team Woodcon,K20-22,Norway,2004
-2223025,Kristian Sørbotten,m,13870,Vingrom IL,13586,NTG Lillehammer,M18,Norway,2006
-2223223,Hans Kristian Dokken,m,13836,Nordre Land IL,13581,Team Valdres Ski,M17,Norway,2003
-2223514,Oscar Nilsen Hostvedt,m,13890,Svene IL,13951,Team Kongsberg,M17,Norway,2005
 2223534,Odin Garli,m,13841,Sokna IL,14721,Team Hugaas,M Senior,Norway,1999
-2223553,Ole Øyvind Gebhardt,m,7941,Lier IL,13586,NTG Lillehammer,M18,Norway,2006
-2223560,Dina Utstumo Skoglund,f,13870,Vingrom IL,0,,K17,Norway,2002
-2223569,Kristoffer Haugse Rød,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M20-22,Norway,2004
-2223652,Ingri Skjelbreid Gjelland,f,6660,Hålandsdal IL,13585,NTG Geilo,K17,Norway,2007
-2223756,Oselie Henden,f,13565,Eid IL,13589,Stryn Videregående Skole,K19,Norway,2002
-2224294,Tobias Gigstad-Bergene,m,6562,Skrautvål IL,13585,NTG Geilo,M19,Norway,2005
-2224333,Torjus Engeset Woldsund,m,13795,Volda Turn og IL,13589,Stryn Videregående Skole,M19,Norway,2001
-2224398,Ellen Pernille Olsen,f,7941,Lier IL,14676,Team Lier Skiskyting,K17,Norway,2003
-2224402,Mats Maalø,m,13562,Skatval Skilag,13584,Meråker Videregående skole,M19,Norway,2001
-2224619,Ann Kristin Aaland,f,13845,Hardbagg IL,16839,"Team 1,5",K20-22,Norway,2004
-2224620,Rasmus Normann Hellevang,m,13845,Hardbagg IL,0,,M17,Norway,2006
-2224763,Linnea Melheim Espe,f,13912,Markane IL,13951,Team Kongsberg,K20-22,Norway,2004
-2224766,Frøya Haughovd,f,13895,Stårheim IL,13589,Stryn Videregående Skole,K19,Norway,2005
-2224768,Trygve Myrold,m,13895,Stårheim IL,13589,Stryn Videregående Skole,M19,Norway,2004
-2224833,Elias Helset,m,13789,Sunnylven IL,13589,Stryn Videregående Skole,M19,Norway,2005
-2224844,Katrine Svarstad Heggdal,f,13912,Markane IL,13589,Stryn Videregående Skole,K18,Norway,2006
-2224845,Hedda Garlid Hilde,f,13912,Markane IL,16721,Nordfjord Team Tussa,K20-22,Norway,2003
 2224848,Vegard Skrede,m,13845,Hardbagg IL,14721,Team Hugaas,M Senior,Norway,1999
-2224849,Erlend Oskar Risnes,m,13876,Tonstad IL,0,,M20-22,Norway,2003
-2224850,Håvard Johannes Risnes,m,13876,Tonstad IL,0,,M17,Norway,2006
-2224857,Maren Hjelmeset Kirkeeide,f,13912,Markane IL,0,,K Senior,Norway,2003
-2224876,Marie Nielsen Solberg,f,13562,Skatval Skilag,13584,Meråker Videregående skole,K19,Norway,2003
-2224886,Eirik Stensaker Tvinnereim,m,13845,Hardbagg IL,13589,Stryn Videregående Skole,M19,Norway,2005
-2224890,Magnus Skeide Bakke,m,13565,Eid IL,16903,Team Woodcon,M20-22,Norway,2003
-2225021,Ingelinn Frisk Remman,f,13562,Skatval Skilag,0,,K17,Norway,2003
-2268378,Mathias Gravelsæter Søreng,m,13938,Fana IL,15512,Team Gla'Laks Biathlon,M17,Norway,2007
-2268412,Mari Nummedal,f,13885,Eldar IL,0,,K17,Norway,2006
-2268413,Tiril Ure Totland,f,13885,Eldar IL,13589,Stryn Videregående Skole,K19,Norway,2004
-2268712,Anniken Dogger Kringler,f,13563,Lørenskog SK,15632,Wang Toppidrett Romerike,K19,Norway,2005
-2268885,Sebastian Norman,m,13927,Tromsø Skiskytterlag,0,,M17,Norway,2007
-2269437,Anders Baasland Solbjørg,m,6268,Moi IL,13569,Sirdal Ski Skiskyting,M18,Norway,2002
 2269734,Harald Øygard,m,6562,Skrautvål IL,16839,"Team 1,5",M Senior,Norway,1997
-2270133,Trym Silsand Gerhardsen,m,13927,Tromsø Skiskytterlag,16723,Team Fosen Yard,M20-22,Norway,2001
-2270330,Anders Wiencke Grøgaard,m,13940,Fossum IF,0,,M19,Norway,2003
-2270689,Rakel Haltbrekken,f,13835,Steinkjer SK,16901,Team Innherred,K19,Norway,2005
-2271013,Sofie Bergan Bjaadal,f,7941,Lier IL,13577,Team Skiguard Buskerud,K20-22,Norway,2000
-2271735,Gro Torsteinsrud,f,13817,Ål Skiskyttarlag,13951,Team Kongsberg,K20-22,Norway,2003
-2272513,Carmen Aamo,f,6141,Nordreisa Idrettslag,15190,Nordnorsk Skilinje,K18,Norway,2005
-2273072,Johan Tjørhom,m,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,M20-22,Norway,2004
-2273327,Martine Sagen,f,4791,Byåsen Skiskytterlag,16902,Team Midt-Norge,K20-22,Norway,2003
-2273345,Lisa Sagen,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K19,Norway,2005
-2273748,Oskar Kjos,m,13784,Ullensaker SK,15185,Team 2020 Biathlon,M20-22,Norway,2001
-2273767,Martinus Sætre Lid,m,13795,Volda Turn og IL,0,,M17,Norway,2004
-2273818,Emilie Flo Stavik,f,13912,Markane IL,0,,K Senior,Norway,2003
-2273878,Eline Mathea Myren,f,13896,Valldal IL,16839,"Team 1,5",K20-22,Norway,2004
-2273930,Ane Hagset Stavnesli,f,13797,Molde og Omegn IF,13584,Meråker Videregående skole,K19,Norway,2001
-2273982,Alexander Åsvang Rød,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M17,Norway,2007
-2274117,Jens Borgar Aarhaug,m,13841,Sokna IL,13586,NTG Lillehammer,M19,Norway,2005
-2274266,Emil Kristoffer Bergli,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M20-22,Norway,2004
-2275329,Mathias Ledang,m,13811,Alvdal IL,15214,Team Savalen,M18,Norway,2005
-2275330,Henrik Ledang,m,13811,Alvdal IL,14436,Team Toyota Slettum Bil,M17,Norway,2002
-2275621,Eirik Andreas Sønvisen Snefjellå,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M19,Norway,2003
 2275672,Sivert Bekken,m,13913,Kvikne IL,0,,M Senior,Norway,1999
-2275683,Marie Molde Lappegard,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2003
-2275805,Torkel Hægeland,m,13806,Øvrebø IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,2004
-2276547,Ole Jonas Storsveen Bekkevold,m,13870,Vingrom IL,15510,Team Meråker Skiskyting,M17,Norway,2007
-2277784,Linnea Winsvold,f,7941,Lier IL,15511,Team Fossum Elite,K20-22,Norway,2002
-2278044,Ola Moen,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M18,Norway,2004
-2278050,Anders Haugmoen,m,13897,Froland IL,0,,M17,Norway,2005
-2278081,Noah Aronsen Kolåsæter,m,13780,Skonseng UL,13575,Team Polarsirkelen,M20-22,Norway,2003
-2278122,Herman Emil von der Ohe,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M19,Norway,2003
-2278221,Ella Bjørnerud Knap,f,13805,Asker SK,0,,K17,Norway,2005
-2278235,Tuva Tandre Melbye,f,13898,Bærums Skiklub,13585,NTG Geilo,K17,Norway,2007
-2278486,Tarald Neumann Rødland,m,13940,Fossum IF,0,,M18,Norway,2001
-2278680,Vegard Solberg,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M19,Norway,2004
-2278770,Rikke Bolstad Kalkenberg,f,13780,Skonseng UL,13575,Team Polarsirkelen,K18,Norway,2005
 234258,Ole Andreas Flotten,m,13561,Oppdal IL,14679,Team Intersport Oppdal,M Senior,Norway,1995
-2412441,Kristine Sandstedt Ingebrigtsen,f,13780,Skonseng UL,13575,Team Polarsirkelen,K19,Norway,2005
-2413016,Johan Olav Sønvisen Snefjellå,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M19,Norway,2003
-2418892,Agathe Brathagen,f,4815,Ivrig IL,13585,NTG Geilo,K19,Norway,2005
-2418909,Thelma Brathagen,f,4815,Ivrig IL,13585,NTG Geilo,K17,Norway,2007
-2419020,Vetle Ree-Trandum,m,13898,Bærums Skiklub,0,,M19,Norway,2005
-2513330,Jonathan Vinda,m,13898,Bærums Skiklub,14671,Holmenkollen Biathlon,M20-22,Norway,2004
-2513573,Eiliv Smidesang,m,13870,Vingrom IL,13951,Team Kongsberg,M20-22,Norway,2004
 251997,Kristoffer Jonsson,m,13870,Vingrom IL,14677,Team Maxim,M Senior,Norway,1996
-2562053,Lena Aas,f,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,K18,Norway,2006
-2562260,Loke Lyngsgård,m,13541,Voss Skiskytterlag,15512,Team Gla'Laks Biathlon,M20-22,Norway,2004
-2562334,Astrid Nordstrand Fiksen,f,13564,Bossekop UL,13587,NTG-T,K18,Norway,2002
-2562841,Sigurd Bekken Woldengen,m,13886,Tingelstad Skiskytterklubb,13572,Team Lygna skiskyting,M18,Norway,2001
-2562846,Ida Skolegården,f,13809,Åsnes Skiskytterlag,13586,NTG Lillehammer,K17,Norway,2007
-2562867,Ane-Marie Berget Hareland,f,6871,Dombås IL,0,,K20-22,Norway,2003
-2562877,Oskar Dalene,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-2563483,Simen Kindlistuen,m,13866,Tretten Skiskytterlag,13589,Stryn Videregående Skole,M17,Norway,2007
-2564429,Eline Grue,f,13913,Kvikne IL,14671,Holmenkollen Biathlon,K Senior,Norway,1996
-2564467,Markus Aspevik Hannestad,m,13552,Nittedal Skiskytterlag,15632,Wang Toppidrett Romerike,M19,Norway,2005
-2565001,Ida Flatabø Jordal,f,13826,Odda IL,15512,Team Gla'Laks Biathlon,K18,Norway,2006
-2565002,Hilda Viskjer Eide,f,13826,Odda IL,0,,K17,Norway,2007
-2568272,Herman Emil Eriksen,m,13870,Vingrom IL,0,,M18,Norway,2005
-2568697,Emily Hedvig Krogsbøl,f,13567,"Try, Idrettslaget",0,,K19,Norway,2001
-2568911,Elias Rønning Haraldsen,m,13835,Steinkjer SK,16901,Team Innherred,M20-22,Norway,2004
-2568944,Oline Ringen Jacobsen,f,13870,Vingrom IL,16526,Team Karidalen Skiskyting,K17,Norway,2007
-2569164,Oscar Magnus Samseth,m,13898,Bærums Skiklub,15163,Dønski VGS,M19,Norway,2005
-2569298,Sigurd Lysberg Lehn,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M18,Norway,2006
-2570325,Bjørg Marit Eide,f,6660,Hålandsdal IL,13585,NTG Geilo,K18,Norway,2006
-2570833,Espen Skrattalsrud,m,13835,Steinkjer SK,16901,Team Innherred,M20-22,Norway,2004
-2570980,Mari Austheim,f,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,K20-22,Norway,2003
-2582292,Trym Reinsnes Lind,m,13940,Fossum IF,0,,M19,Norway,2000
-2582845,Magnus Dregelid Aarlie,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M18,Norway,2006
-2583084,Emil Hage Streitlien,m,13777,Folldal IF,13951,Team Kongsberg,M20-22,Norway,2002
-2583171,Andrea Heimdal Aase,f,13879,Vik IL,13585,NTG Geilo,K17,Norway,2007
-2583398,Karen Kjøsen,f,13874,"Leik, IL",0,,K19,Norway,2003
-2584169,Håvard Eriksson Solfeldt,m,6612,Skaun IL,14723,Team Knyken,M20-22,Norway,2000
-2584238,Sebastian Joberg Horn,m,4815,Ivrig IL,14671,Holmenkollen Biathlon,M20-22,Norway,2004
-2584239,Oscar Joberg Horn,m,4815,Ivrig IL,13570,Team TeVe,M17,Norway,2007
-2587809,Henrik Wahlstrøm,m,13567,"Try, Idrettslaget",15511,Team Fossum Elite,M20-22,Norway,2002
-2588239,Karoline Kørra,f,13847,Hernes IL,15214,Team Savalen,K19,Norway,2004
-2589004,Sigrid Adde,f,13843,Skaun IL,14723,Team Knyken,K18,Norway,2001
-2589585,Guri Feten,f,13817,Ål Skiskyttarlag,15190,Nordnorsk Skilinje,K19,Norway,2005
-2590005,Mari Torsteinsrud,f,13817,Ål Skiskyttarlag,16903,Team Woodcon,K Senior,Norway,2001
-2590153,August Foshaug,m,13865,Målselvs Skiskyttere,15510,Team Meråker Skiskyting,M18,Norway,2006
-2610677,Hallvard Engeset Woldsund,m,13795,Volda Turn og IL,13589,Stryn Videregående Skole,M18,Norway,2003
-2709453,Silje Nerli,f,13896,Valldal IL,0,,K17,Norway,2005
-2710247,Tobias Tangstad,m,6405,Stiklestad IL,13593,Steinkjer Videregående Skole,M20-22,Norway,2000
-2712576,Hedda Høen Mo,f,6866,Kvam Langrenn- og Skiskyttarklubb,15512,Team Gla'Laks Biathlon,K18,Norway,2006
-2712609,Heine Gjerald,m,13885,Eldar IL,13589,Stryn Videregående Skole,M17,Norway,2005
-2717293,Sonja Alfrida Kjørmo Såkvitne,f,13876,Tonstad IL,0,,K17,Norway,2005
-2719943,Eskil Fauchald,m,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,M17,Norway,2006
 2774691,Torstein Wiiger Opsahl,m,7941,Lier IL,14676,Team Lier Skiskyting,M Senior,Norway,1997
-2821543,Emma Krogh Pedersen,f,13935,Nordkyn IL,0,,K Senior,Norway,1999
-2829077,Sigve Lunde Soldal,m,13942,IL Bevern,13951,Team Kongsberg,M17,Norway,2003
 2829078,Mathias Holbæk,m,13806,Øvrebø IL,0,,M Senior,Norway,2003
-2848131,Karoline Holm,f,6091,Simostranda IL,13951,Team Kongsberg,K19,Norway,2001
-2955957,Elina Østerbø,f,13912,Markane IL,13589,Stryn Videregående Skole,K19,Norway,2005
-2957443,Berit Solem Reitan,f,13841,Sokna IL,14634,Trondheim Biathlon Team,K17,Norway,2006
-2963731,Magnus Bratbakken,m,13835,Steinkjer SK,13586,NTG Lillehammer,M17,Norway,2007
-2965231,Synne Håstul Flom,f,13556,Drangedal Idrettslag,15510,Team Meråker Skiskyting,K Senior,Norway,2000
-2965505,Ole Amund Bonden Hørthe,m,7941,Lier IL,0,,M20-22,Norway,2001
 2965925,Reidar Helland,m,6268,Moi IL,0,,M Senior,Norway,1957
 2966604,Thor Sangesland,m,13806,Øvrebø IL,0,,M Senior,Norway,1969
-2970097,Kirsten Daae Wiig,f,13784,Ullensaker SK,0,,K Senior,Norway,1997
-2970277,Sander Østensen,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M20-22,Norway,1999
-2970582,Jo Brøste Nørstegård,m,6871,Dombås IL,14721,Team Hugaas,M20-22,Norway,1999
-2971485,Magnus Moe Hagen,m,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,M18,Norway,2006
-2972299,Emil Skjellberg,m,13927,Tromsø Skiskytterlag,13587,NTG-T,M17,Norway,2007
 2981428,Martin Lien Spjøtvold,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M Senior,Norway,1996
 3033293,Hogne Findal Skar,m,13829,Sannidal Idrettslag,14721,Team Hugaas,M Senior,Norway,1996
-3033310,Frida Dahl,f,13835,Steinkjer SK,16836,Team Fosen Yard,K Senior,Norway,1998
-3033332,Ine Skjellum,f,13779,Søndre Ål Sportsklubb,13572,Team Lygna skiskyting,K20-22,Norway,1998
-308776,Arngrim Sørumshaugen,m,13872,Gjøvik SK,13586,NTG Lillehammer,M19,Norway,2000
-308942,Hanna Lerche Fodstad,f,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,K19,Norway,2004
 311172,Vegar Horneberg Selnæs,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M Senior,Norway,1998
-3130569,Simen Sommerstad Røste,m,13942,IL Bevern,13951,Team Kongsberg,M17,Norway,2007
-3130572,Synne Sommerstad Røste,f,13942,IL Bevern,13951,Team Kongsberg,K17,Norway,2005
-3132863,Ane Einbu Baugerød,f,13942,IL Bevern,14670,Team Woodcon,K20-21,Norway,1998
-3133478,Mari Wetterhus,f,13890,Svene IL,14671,Holmenkollen Biathlon,K Senior,Norway,1998
-3181102,Fabian Nikolai Gjessing,m,13898,Bærums Skiklub,0,,M17,Norway,2003
 3181684,Erlend Øvereng Bjøntegaard,m,13942,IL Bevern,0,,M Senior,Norway,1990
 3338093,Oskar Ohlsson,m,0,,0,,M Senior,Sweden,1998
 334234,Håkon Svaland,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,1993
-337134,Isak Skogrand,m,13561,Oppdal IL,0,,M19,Norway,2005
-337413,Guro Ingebjørg Utistog Kleiv,f,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,K19,Norway,2002
-337493,Daniel Aakervik,m,13554,Fet SK,15632,Wang Toppidrett Romerike,M18,Norway,2004
-344975,Åsne Margrete Kleiv,f,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,K19,Norway,2000
 345062,Steinar Valbø,m,13556,Drangedal Idrettslag,13570,Team TeVe,M Senior,Norway,1996
-345261,Andrine Håstul Flom,f,13556,Drangedal Idrettslag,13570,Team TeVe,K20-22,Norway,1999
-345336,Liv Skeie,f,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,K19,Norway,2003
-348443,Sivert Raddum Skaug,m,13866,Tretten Skiskytterlag,13589,Stryn Videregående Skole,M19,Norway,2001
-349285,Ingvild Sangesland,f,13806,Øvrebø IL,0,,K Senior,Norway,1994
-349286,Eirin Sangesland Tveit,f,13806,Øvrebø IL,0,,K Senior,Norway,1995
-3495352,Jonas Johansen Grøsland,m,13931,Drammen Strong,14721,Team Hugaas,M20-22,Norway,2004
-3504107,Henrik Furunes,m,13905,Frol IL,15510,Team Meråker Skiskyting,M17,Norway,2007
-3511524,Tobias Haugeplass Aanesen,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-3512009,Nils Henrik Smeland,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-3523397,Sigurd Leren,m,13861,Vingelen IL,14670,Team Woodcon,M20-22,Sweden,1999
-3545375,Kristina Hipolan Bergmann,f,13556,Drangedal Idrettslag,13569,Sirdal Ski Skiskyting,K Senior,Norway,1999
-3545612,Maren Wangensteen,f,13911,Vestre Slidre IL,0,,K Senior,Norway,1991
-3550545,Halvor Trondssønn Hove,m,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,M19,Norway,2002
-3550621,Esten Hansen-Møllerud Hauen,m,13811,Alvdal IL,0,,M20-22,Norway,2003
-3552409,Vinjar Aurstad Berland,m,13870,Vingrom IL,16836,Team Fosen Yard,M20-22,Norway,2002
-355365,Ådne Ulset,m,13870,Vingrom IL,15168,Team Blåne,M18,Norway,2002
 3558840,Lars Gunnar Skjevdal,m,6692,Røros IL,14634,Trondheim Biathlon Team,M Senior,Norway,1995
-3563150,Vilde Skaar Rangnes,f,13805,Asker SK,0,,K17,Norway,2007
 356854,Martin Femsteinevik,m,6660,Hålandsdal IL,14671,Holmenkollen Biathlon,M Senior,Norway,1994
-356913,Patrick Lunde,m,13870,Vingrom IL,13584,Meråker Videregående skole,M19,Norway,2000
-357739,Thekla Charlotte Knudtzon Brun-Lie,f,13925,Oslo Skiskytterlag,0,,K Senior,Norway,1992
-3578041,Fanny Horn Birkeland,f,13928,Birkenes IL,0,,K Senior,Norway,1988
-3587485,Eirik Fløtre Rørstad,m,13940,Fossum IF,13590,Wang Toppidrett,M19,Norway,2001
-3588303,Ingrid Baasland Solbjørg,f,6268,Moi IL,13569,Sirdal Ski Skiskyting,K20-22,Norway,2003
-3588445,Oda Aase Urnes,f,13796,Østre Toten Skilag,13586,NTG Lillehammer,K18,Norway,2006
 359013,Vetle Løchting,m,13875,Sørskogbygda IL,14670,Team Woodcon,M Senior,Norway,1996
-3595989,Sander Brevik Lillemoen,m,13780,Skonseng UL,13584,Meråker Videregående skole,M18,Norway,2001
-360256,Signe Hofstad,f,6692,Røros IL,0,,K20-22,Norway,2000
 361667,Vegard Refvem,m,6268,Moi IL,0,,M Senior,Norway,1998
 3624692,Vetle Sjåstad Christiansen,m,13859,Geilo IL,0,,M Senior,Norway,1992
-3625575,August Hallingstad,m,13898,Bærums Skiklub,15631,Wang Toppidrett Oslo,M19,Norway,2005
-3638318,Tonje Tveito,f,13817,Ål Skiskyttarlag,14671,Holmenkollen Biathlon,K20-22,Norway,2004
-3639402,Silje Bakken,f,13874,"Leik, IL",0,,K Senior,Norway,1996
-3639792,Lisa Bjønnes,f,13925,Oslo Skiskytterlag,16903,Team Woodcon,K20-22,Norway,2002
-3642888,Vegard Øverli Berg,m,13890,Svene IL,13577,Team Skiguard Buskerud,M20-22,Norway,2000
-3645831,Mari Lindmo Kvanneberg,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2000
 364743,Sondre BOLLUM,m,13872,Gjøvik SK,0,,M Senior,Norway,1995
-3647940,Stein Aas Stræte,m,13877,Hønefoss Skiskytterklubb,16903,Team Woodcon,M20-22,Norway,2003
-3648751,Embla Stålhandske,f,7182,Meråker Skiskytterklubb,0,,K17,Norway,2002
-3648947,Einar Haugøy,m,13898,Bærums Skiklub,0,,M20-22,Norway,2003
-3649034,Celine Hjorthøy,f,13805,Asker SK,0,,K19,Norway,2005
-3649571,Ingvild Tronstad Andersen,f,13942,IL Bevern,13951,Team Kongsberg,K20-22,Norway,2000
 3686511,Per Test1,m,0,,0,,M Senior,Norway,1970
-3686908,Brynjar Thorshaug,m,13811,Alvdal IL,15187,Team Nord-Østerdal,M19,Norway,2002
-3686910,Martin Bøe Svestad,m,13940,Fossum IF,0,,M19,Norway,2000
-3687063,Kristine Gjersvold Haug,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K19,Norway,2001
-3687108,Syver Lorås,m,13562,Skatval Skilag,15510,Team Meråker Skiskyting,M18,Norway,2006
-3687401,Lars Fauchald,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M19,Norway,2002
 3687444,Einar Hedegart,m,13926,Inderøy IL,0,,M Senior,Norway,2001
-3687756,Astrid Pettersen,f,13927,Tromsø Skiskytterlag,0,,K20-22,Norway,2002
-3687886,Mina Kristine Bugge Opheim,f,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,K17,Norway,2007
-3688697,Simon Aasen,m,13806,Øvrebø IL,0,,M17,Norway,2003
-3704383,Torild Eggan,f,13869,Rennebu IL,16839,"Team 1,5",K20-22,Norway,2004
-3704405,Magnus Essén,m,13899,Bjerke IL Ski,0,,M17,Norway,2003
-3706611,Siri Galtung Skar,f,13567,"Try, Idrettslaget",0,,K19,Norway,2003
-3707032,Malin Skogstad,f,13874,"Leik, IL",13586,NTG Lillehammer,K17,Norway,2007
 370828,Brage Reier Groven,m,13931,Drammen Strong,14671,Holmenkollen Biathlon,M Senior,Norway,1997
-3708476,Hans Paolo Matcovich Aarbakke,m,13898,Bærums Skiklub,0,,M17,Norway,2004
-3709399,Vegard Mosbakk Fjeldstad,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-22,Norway,2004
-370940,Espen Haugøy,m,13567,"Try, Idrettslaget",0,,M20-22,Norway,2001
-3710470,Vår Ivardatter,f,13835,Steinkjer SK,16901,Team Innherred,K17,Norway,2007
-3712275,Elise Lien Seland,f,13940,Fossum IF,14671,Holmenkollen Biathlon,K20-22,Norway,2004
-3712291,Eivind Berner Myhre,m,13940,Fossum IF,0,,M18,Norway,2001
-3712310,Hedda Omland,f,13552,Nittedal Skiskytterlag,0,,K17,Norway,2007
-3716732,Angelika Lappegard,f,13817,Ål Skiskyttarlag,0,,K17,Norway,2007
-3722694,Jenny Enodd,f,6705,Budal IL,14671,Holmenkollen Biathlon,K Senior,Norway,1996
-3728923,Marte Bøylestad,f,13897,Froland IL,13569,Sirdal Ski Skiskyting,K17,Norway,2007
 373086,Martin Nevland,m,6239,Figgjo IL,0,,M Senior,Norway,2001
-3732414,Magnus Ytre-Hauge Ivesdal,m,13895,Stårheim IL,13589,Stryn Videregående Skole,M17,Norway,2007
-3737290,Bjørn-Anders Eriksen,m,13865,Målselvs Skiskyttere,0,,M17,No nation,2007
-3739596,Thyra Ramsem,f,13869,Rennebu IL,13586,NTG Lillehammer,K17,Norway,2007
-3739707,Ole Einar Nøkleby Brendryen,m,13777,Folldal IF,15214,Team Savalen,M17,Norway,2007
 3740349,Eivind Sporaland,m,6239,Figgjo IL,14670,Team Woodcon,M Senior,Norway,2000
 3740709,Aksel Matias Meland,m,13912,Markane IL,0,,M Senior,Norway,1999
-3740732,Oddrun Hjelmeset Kirkeeide,f,13912,Markane IL,13589,Stryn Videregående Skole,K19,Norway,2005
-3740956,Sondre Roset,m,13845,Hardbagg IL,13951,Team Kongsberg,M20-22,Norway,2003
-3740975,Torje Usland Dahl,m,13884,Marnardal IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,1998
-3741176,Karl Petter Antonsen,m,6612,Skaun IL,0,,M19,Norway,2005
 3741431,Joachim Weel Rosbo,m,0,,0,,M Senior,Norway,1997
-3741743,Truls August Krogh,m,13935,Nordkyn IL,15190,Nordnorsk Skilinje,M20-22,Norway,2002
-3742753,Caspar Stai,m,13913,Kvikne IL,15214,Team Savalen,M17,Norway,2007
-3744180,Hedda Singelstad Kåsa,f,6660,Hålandsdal IL,13946,Team Glalaks,K17,Norway,2002
-3744939,Tora Lønnebakke Norberg,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K20-22,Norway,2003
-3745003,Jørgen Furuseth,m,13836,Nordre Land IL,16526,Team Karidalen Skiskyting,M17,Norway,2007
-3745339,Håkon Wiig Langsrud,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M19,Norway,2005
-3745390,Jon Storhaug Eide,m,13861,Vingelen IL,15214,Team Savalen,M17,Norway,2007
-3745581,Oliver Alm,m,13796,Østre Toten Skilag,13586,NTG Lillehammer,M19,Norway,2005
-3745645,Ingeborg Rørvik,f,13790,Førde IL,13585,NTG Geilo,K17,Norway,2007
-374614,Torjus Idland,m,6239,Figgjo IL,14672,Team iSandnes,M20-21,Norway,1999
-3746235,Ina Hægeland,f,13806,Øvrebø IL,13569,Sirdal Ski Skiskyting,K20-22,Norway,2003
-3746244,Martha Hægeland,f,13806,Øvrebø IL,0,,K17,Norway,2007
-3746251,Lars Kongssund,m,13921,MjøsSki,0,,M19,Norway,2004
-3746321,Johannes Kolstad Lie,m,13928,Birkenes IL,13586,NTG Lillehammer,M19,Norway,2005
-3746623,Eline Noraberg,f,13857,Seljord Idrettslag,13569,Sirdal Ski Skiskyting,K19,Norway,2005
-374733,Peder Stalenget,m,13866,Tretten Skiskytterlag,14721,Team Hugaas,M20-22,Norway,2000
-3747584,Erlend Holter Nilssen,m,6808,Innstranda IL,13569,Sirdal Ski Skiskyting,M17,Norway,2006
-3748003,Emma Tørhaug Brevad,f,13913,Kvikne IL,16902,Team Midt-Norge,K20-22,Norway,2003
-3748614,Olav Bøylestad-Landa,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M18,Norway,2006
-3750020,Marte Eriksen Hensema,f,13944,Bødalen IF,13951,Team Kongsberg,K20-21,Norway,1999
 3750190,Lars Aasheim Svaland,m,13928,Birkenes IL,0,,M Senior,Norway,1995
 3750243,Amund Hoff Thomassen,m,6141,Nordreisa Idrettslag,0,,M Senior,Norway,1989
 3750283,Endre Blikra,m,13864,Trondhjems Skiskyttere,16902,Team Midt-Norge,M Senior,Norway,1994
 3750293,Aasmund Kjøllmoen Steien,m,13777,Folldal IF,14671,Holmenkollen Biathlon,M Senior,Norway,1993
-3753227,Hilde Fenne,f,13541,Voss Skiskytterlag,0,,K Senior,Norway,1993
-3753435,Tobias Kerlefsen Håverstad,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-3753441,Daniel Loga Gjerde,m,13897,Froland IL,13586,NTG Lillehammer,M18,Norway,2006
-3753710,Johan Smeland,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-3769396,Torjus Fidje Fjærbu,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-3769479,Oline Christin Eikemo,f,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,K17,Norway,2007
-3772746,Guro Mikkelsen Stokke,f,13812,Tynset IF,15214,Team Savalen,K18,Norway,2006
-3779890,Brage Ruud Lofthus,m,13898,Bærums Skiklub,13586,NTG Lillehammer,M17,Norway,2007
-3790619,Ada Johanne Borgund,f,13895,Stårheim IL,16721,Nordfjord Team Tussa,K19,Norway,2005
-3799043,Sigurd Trømborg,m,13942,IL Bevern,14672,Team iSandnes,M20-21,Norway,1999
 3799046,Pål Kristian Grue Tufte,m,13859,Geilo IL,0,,M Senior,Norway,1991
-3799351,Ingrid Kristine Wright-Hagen,f,13809,Åsnes Skiskytterlag,0,,K Senior,Norway,1999
-3800736,Leo Skjellaug Gundersen,m,13859,Geilo IL,13585,NTG Geilo,M17,Norway,2006
-3801594,Oscar Brandås Uv,m,13902,Orkdal IL,14723,Team Knyken,M18,Norway,2004
-3803901,Raimond Haugom Strømvall,m,13796,Østre Toten Skilag,15185,Team 2020 Biathlon,M20-22,Norway,2001
-3804436,Agnes Sivertsen Rølvåg,f,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,K17,Norway,2007
-3808954,Peder Fekjan Solheim,m,13890,Svene IL,15185,Team 2020 Biathlon,M20-22,Norway,2001
-381719,Eivor Melbybråten,f,13815,Øystre Slidre IL,0,,K20-22,Norway,2002
 382023,Mats Øverby,m,7941,Lier IL,0,,M Senior,Norway,2000
-3824755,Anna Elise Rikardsen Jaatun,f,6141,Nordreisa Idrettslag,0,,K18,Norway,2001
-3824885,Ola Johnsrud,m,13779,Søndre Ål Sportsklubb,13586,NTG Lillehammer,M18,Norway,2006
 382777,Nils Erik Ulset,m,13838,Tingvoll IL,0,,M Senior,Norway,1983
-382840,Simen Hårstad,m,13869,Rennebu IL,14721,Team Hugaas,M20-22,Norway,1999
 3829293,Kjerand Tronerud Kvelvane,m,13541,Voss Skiskytterlag,16839,"Team 1,5",M Senior,Norway,2000
-383005,Håkon Halseth,m,13869,Rennebu IL,13586,NTG Lillehammer,M18,Norway,2001
-3830970,Mona Danielsen Holmer,f,13871,Bjerkvik IF,15190,Nordnorsk Skilinje,K18,Norway,2006
-3835613,Odin Dokken Berget,m,13890,Svene IL,13951,Team Kongsberg,M20-22,Norway,2002
-3849456,Trond-André Kolstad,m,13922,Vinne Skilag,13584,Meråker Videregående skole,M19,Norway,2000
 3849463,Kasper Ågheim Kalkenberg,m,13780,Skonseng UL,13586,NTG Lillehammer,M Senior,Norway,2005
-3857511,Vida Helland-Hansen,m,13898,Bærums Skiklub,15631,Wang Toppidrett Oslo,K18,Norway,2004
 387837,Anders Brekke Nilsen,m,13942,IL Bevern,0,,M Senior,Norway,1995
 3878979,Test Test2,m,0,,0,,M Senior,Norway,1970
-388014,Jonas Linset,m,13562,Skatval Skilag,13584,Meråker Videregående skole,M19,Norway,2001
-389369,Iver Overgård Fremstad,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-389685,Sindre Davidsen Schonhowd,m,13779,Søndre Ål Sportsklubb,13572,Team Lygna skiskyting,M20-21,Norway,1999
 391191,Øyvind Rikheim Haugan,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M Senior,Norway,1998
-3945794,Julie Tronerud Kvelvane,f,13541,Voss Skiskytterlag,13585,NTG Geilo,K18,Norway,2006
-3945831,Martin Vatland Stakkeland,m,16524,Kvinesdal ski- og skiskytterlag,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-3969675,Karoline Simpson-Larsen,f,13895,Stårheim IL,0,,K Senior,Norway,1997
-3972236,Hedda Thoresen Tretteteig Bolstad,f,6091,Simostranda IL,14671,Holmenkollen Biathlon,K Senior,Norway,2001
-4004185,Marit Øygard,f,6562,Skrautvål IL,16839,"Team 1,5",K Senior,Norway,1999
-4005733,Kristoffer Sverdrup,m,6871,Dombås IL,14721,Team Hugaas,M20-22,Norway,2000
-4006160,Max Oliver Tornøe Jonsson,m,13898,Bærums Skiklub,13590,Wang Toppidrett,M19,Norway,2000
-4010469,Emil Knutsen Berg,m,4810,Bø Skiskyttarlag,13570,Team TeVe,M17,Norway,2003
 401058,Emil NYENG,m,13870,Vingrom IL,13952,Team Mesterbakeren,M Senior,Norway,1991
-4010977,Amund Marinius Sørensen,m,13940,Fossum IF,0,,M20-22,Norway,2002
-4011081,Marius Møller,m,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,M18,Norway,2001
 402427,Tore Leren,m,13861,Vingelen IL,13952,Team Mesterbakeren,M Senior,Norway,1993
-4026514,Thyra Grimstad Strand,f,4810,Bø Skiskyttarlag,13570,Team TeVe,K19,Norway,2000
 402784,Fredrik Gjesbakk,m,13906,Bossmo & Ytteren IL,0,,M Senior,Norway,1992
 402866,Ole Martin Erdal,m,13790,Førde IL,14671,Holmenkollen Biathlon,M Senior,Norway,1992
-4028685,Thorben Grytnes Thornquist,m,4815,Ivrig IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
 403090,Thomas Fenne,m,13541,Voss Skiskytterlag,0,,M Senior,Norway,1989
 403990,Johan Eirik Meland,m,13912,Markane IL,0,,M Senior,Norway,1994
 406044,Lars BERGER,m,6871,Dombås IL,0,,M Senior,Norway,1979
 406564,Lars Helge Birkeland,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,1988
-4070595,Jonatan Heimdal Korshavn,m,13836,Nordre Land IL,13581,Team Valdres Ski,M17,Norway,2005
-4073094,Elin Sofie Vinje Kilvær,f,13927,Tromsø Skiskytterlag,0,,K17,Norway,2007
-4073398,Brinje Marie Haugli,f,13925,Oslo Skiskytterlag,0,,K19,Norway,2001
-407576,Ragnhild Femsteinevik,f,6660,Hålandsdal IL,0,,K Senior,Norway,1995
-4076121,Sondre Aputsiaq Rein Slettemark,m,13859,Geilo IL,16839,"Team 1,5",M20-22,Greenland,2004
-4076122,Inuk Sander Slettemark,m,13859,Geilo IL,0,,M18,Greenland,2006
-4076123,Ukaleq Astri Slettemark,f,13859,Geilo IL,16839,"Team 1,5",K Senior,Greenland,2001
-407613,Hedda Lundeberg Aas,f,4810,Bø Skiskyttarlag,14671,Holmenkollen Biathlon,K Senior,Norway,1995
-4077222,Ingrid Stølan Husøy,f,13797,Molde og Omegn IF,14634,Trondheim Biathlon Team,K Senior,Norway,1999
 407896,Leif Malvin HJELMEVOLL,m,13879,Vik IL,14721,Team Hugaas,M Senior,Norway,1995
-4079032,Marius Braathen Kleven,m,7941,Lier IL,13584,Meråker Videregående skole,M19,Norway,2000
-4080605,Marcus Lernes Andreassen,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M19,Norway,2005
-4080618,Silje Bentzen Østby,f,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,K19,Norway,2001
-4080649,Vilde Hagen Friis,f,13817,Ål Skiskyttarlag,0,,K20-22,Norway,1999
 4080652,Sondre Østraat Mortensen,m,13940,Fossum IF,15511,Team Fossum Elite,M Senior,Norway,2001
-4081558,Halvor Taalesen Tjøntveit,m,13890,Svene IL,14678,Team Geilo,M20-21,Norway,1999
 408161,Arild SANGESLAND,m,13806,Øvrebø IL,0,,M Senior,Norway,1993
 408190,Ole Henrik Somby,m,13935,Nordkyn IL,0,,M Senior,Norway,1987
-4082624,Tord Mathias Hareland Berget,m,6871,Dombås IL,13586,NTG Lillehammer,M17,Norway,2007
-4082885,Mathias Halseth,m,13869,Rennebu IL,13584,Meråker Videregående skole,M17,Norway,2002
-4082888,Ole-Kristian Kvanli,m,13865,Målselvs Skiskyttere,0,,M20-22,Norway,2004
-4082960,Synne Owren,f,13870,Vingrom IL,16836,Team Fosen Yard,K Senior,Norway,2001
-408308,Kristin Hjelstuen,f,13925,Oslo Skiskytterlag,0,,K Senior,Norway,1994
-4083111,Torbjørn Stuen,m,13869,Rennebu IL,13584,Meråker Videregående skole,M20-22,Norway,2001
-4083165,Ulrik Olsen Brimi,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M19,Norway,2001
 4083331,Trym Paulsen,m,13780,Skonseng UL,13575,Team Polarsirkelen,M Senior,Norway,1999
-4084455,Marit Ishol Skogan,f,13835,Steinkjer SK,16836,Team Fosen Yard,K Senior,Norway,1998
-4084468,Mari Grøtli Svergja,f,13913,Kvikne IL,0,,K19,Norway,2003
-4084805,Celina Marie Striger,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K20-22,Norway,2001
-4085441,Samuel Stig Tyvold,m,4791,Byåsen Skiskytterlag,16902,Team Midt-Norge,M20-22,Norway,2003
-4086149,Lars Loven Hole,m,13940,Fossum IF,0,,M18,Norway,2006
-4086830,Thomas Mccarthy,m,13805,Asker SK,13586,NTG Lillehammer,M18,Norway,2006
-4086941,Ole Feten,m,13817,Ål Skiskyttarlag,13591,Nordreisa vgs,M19,Norway,2001
 408700,Alexander Os,m,13927,Tromsø Skiskytterlag,0,,M Senior,Norway,1980
-4087071,Kristian Brendengen Mundal,m,7941,Lier IL,15510,Team Meråker Skiskyting,M17,Norway,2006
-4088236,Nikolai Carlos Ricardo Kroken,m,6544,Bardu Idrettslag,0,,M18,Norway,2006
-4088386,Dyvéke Aakervik,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K17,Norway,2007
-4088408,Fredrik André Stangeland Sørensen,m,13898,Bærums Skiklub,0,,M17,Norway,2002
-4088915,Maria Flak,f,13835,Steinkjer SK,0,,K20-22,Norway,2001
-4088954,Hannah Chen-Bjørhovde,f,13567,"Try, Idrettslaget",0,,K18,Norway,2006
-4089085,Aleksander Syrstad,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M17,Norway,2007
-4089125,Ingeborg Adolfsen,f,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,K17,Norway,2007
 409301,Jonas Uglem MOBAKKEN,m,13925,Oslo Skiskytterlag,0,,M Senior,Norway,1996
-409367,Ingrid Landmark Tandrevold,f,13940,Fossum IF,0,,K Senior,Norway,1996
-4095734,Mathias Bugge Danielsen,m,14638,Tinn Skiskytterlag,13585,NTG Geilo,M19,Norway,2005
-409577,Anitra Vognild,f,2576,Bjerke IL Ski,14634,Trondheim Biathlon Team,K Senior,Norway,1996
 409580,Sindre Fjellheim Jorde,m,13805,Asker SK,0,,M Senior,Norway,1996
-4095950,Oscar Julsvik Kristoffersen,m,13779,Søndre Ål Sportsklubb,16526,Team Karidalen Skiskyting,M18,Norway,2005
-4098531,Jonathan Taranger,m,6449,"Ørn, Idrettsforening",13570,Team TeVe,M17,Norway,2003
-4100198,Linea Skjellaug Gundersen,f,13859,Geilo IL,13585,NTG Geilo,K17,Norway,2007
-4100212,Vida Wiig Helland-Hansen,f,13898,Bærums Skiklub,0,,K19,Norway,2004
-4100370,Synne Sandven,f,13543,Heddal Idrettslag,13586,NTG Lillehammer,K18,Norway,2005
-4100559,Maria Bolin Krane,f,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,K20-22,Norway,2004
 410064,Magne Harborg,m,6692,Røros IL,0,,M Senior,Norway,1996
 4100741,Magne Thorleiv Rønning,m,13913,Kvikne IL,0,,M Senior,Norway,1982
-4101209,Ane Byvold Grønlien,f,13870,Vingrom IL,13586,NTG Lillehammer,K18,Norway,2006
-4101912,Oscar Kjustad-Johansen,m,13554,Fet SK,15632,Wang Toppidrett Romerike,M17,Norway,2006
-4102449,Tuva Husby Grandetrø,f,6612,Skaun IL,14634,Trondheim Biathlon Team,K17,Norway,2007
-4103634,Linnea Wolden Alme,f,13847,Hernes IL,16903,Team Woodcon,K20-22,Norway,2003
-4103741,Halvor Konow,m,6692,Røros IL,15187,Team Nord-Østerdal,M19,Norway,2002
 4105154,Erlend Hauan,m,13927,Tromsø Skiskytterlag,16902,Team Midt-Norge,M Senior,Norway,2001
-4105185,Marius Eide,m,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,M17,Norway,2007
-4109250,Lauritz Sogn-Larssen,m,13567,"Try, Idrettslaget",0,,M20-22,Norway,2003
-4111195,Mina Sveen Lund,f,13925,Oslo Skiskytterlag,15631,Wang Toppidrett Oslo,K17,Norway,2007
-4111196,Simen Aaberg Skar,m,13898,Bærums Skiklub,16836,Team Fosen Yard,M20-22,Norway,2002
-4111705,Sindre Halvorsen,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-4112552,Alexander Gunnar Hernes,m,13940,Fossum IF,15631,Wang Toppidrett Oslo,M19,Norway,2005
-4112564,Simon Gunnar Hernes,m,13940,Fossum IF,15631,Wang Toppidrett Oslo,M18,Norway,2006
-4112860,Synne Herheim,f,13859,Geilo IL,14677,Team Maxim,K20-22,Norway,2003
-4114143,Jens-Henrik Hegg,m,13879,Vik IL,13951,Team Kongsberg,M20-22,Norway,2002
-4118391,Anne Bunemann De Besche,f,13567,"Try, Idrettslaget",14678,Team Geilo,K Senior,Norway,2000
-4120379,Kristian Lindh Aandahl,m,13942,IL Bevern,0,,M20-22,Norway,1999
-4127532,Maren Medalen Berntsen,f,13805,Asker SK,13586,NTG Lillehammer,K19,Norway,2005
-4129607,Marte Holmen Nilssen,f,13921,MjøsSki,15187,Team Nord-Østerdal,K19,Norway,2002
-4129841,Amalie Krøger Jemterud,f,13925,Oslo Skiskytterlag,15632,Wang Toppidrett Romerike,K19,Norway,2005
 413078,Andreas Gamst,m,13858,Hammerfest SK,15190,Nordnorsk Skilinje,M Senior,Norway,2003
-4132500,Sanna Bjørkli,f,13897,Froland IL,13569,Sirdal Ski Skiskyting,K20-22,Norway,2000
 4138077,Arild Fosse,m,13541,Voss Skiskytterlag,0,,M Senior,Norway,1996
 414250,Ørjan Moseng,m,6692,Røros IL,14670,Team Woodcon,M Senior,Norway,2000
-414702,Andrea Gulaker Gjønnes,f,13561,Oppdal IL,16903,Team Woodcon,K Senior,Norway,2001
-414907,Eivind Bogen Brurok,m,13864,Trondhjems Skiskyttere,0,,M20-22,Norway,2000
-414908,Morten André Skånøy Søraas,m,13881,Skauga IL,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-414946,Imre Overgård Fremstad,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M19,Norway,2005
-4150439,Mathias Røiseng Aksnes,m,6405,Stiklestad IL,13584,Meråker Videregående skole,M19,Norway,2000
-4150504,Marte Carlson Møller,f,16633,Trysil IL,16903,Team Woodcon,K Senior,Norway,2000
-4151195,Kristel Haltbrekken,f,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,K20-22,Norway,2000
-4151282,Trym Eirik Wilhelmsen,m,13865,Målselvs Skiskyttere,0,,M20-22,Norway,2003
-415129,Sivert Garli,m,13841,Sokna IL,14634,Trondheim Biathlon Team,M20-22,Norway,2002
 415168,Jørgen Solhaug Sæter,m,6949,Os IL,16836,Team Fosen Yard,M Senior,Norway,2000
-415171,Marte Lien Johnsen,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K20-22,Norway,1998
-4151824,Vebjørn Kvello Fjeldstad,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,2001
-415183,Petter Solhaug Sæter,m,6949,Os IL,15214,Team Savalen,M19,Norway,2004
-415203,Mari Sverdrup,f,6871,Dombås IL,0,,K Senior,Norway,1996
 4155552,Øystein Nordbotten,m,15509,Sandnes og Gjesdal SSL,0,,M Senior,Norway,1996
-4173416,Edvard Røsholt Bakken,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2003
-4178036,Mia Dunham,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K17,Norway,2007
-4178457,Jacob Verdenius,m,13861,Vingelen IL,0,,M17,Norway,2002
-4186169,Olav Markus Tveit Aakre,m,13829,Sannidal Idrettslag,13585,NTG Geilo,M19,Norway,2001
 4188653,Vetle Rype Paulsen,m,7941,Lier IL,0,,M Senior,Norway,2000
 4190019,Magnar Kne Galåen,m,6692,Røros IL,0,,M Senior,Norway,1991
-4190020,Kristine Hokseng Øien,f,13561,Oppdal IL,16902,Team Midt-Norge,K Senior,Norway,2000
-4190030,Arnt Tomas Sundli,m,13841,Sokna IL,0,,M20-22,Norway,2000
-4190032,Johan-Olav Botn,m,13895,Stårheim IL,0,,M20-21,Norway,1999
 4190039,Brian Hofstad,m,13562,Skatval Skilag,16902,Team Midt-Norge,M Senior,Norway,2001
-4190606,Hannecke Lergaard Røtter,f,7941,Lier IL,14671,Holmenkollen Biathlon,K20-22,Norway,2004
 4190607,Knut Dahlen Aspenes,m,13562,Skatval Skilag,15510,Team Meråker Skiskyting,M Senior,Norway,2001
 4204867,Sindre Gjøsæter,m,6866,Kvam Langrenn- og Skiskyttarklubb,0,,M Senior,Norway,1999
-4204938,Sander Kulstad Haugen,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M20-22,Norway,1999
-4205060,Kristin Mestad,f,13557,Torridal IL,0,,K Senior,Norway,1999
-4206175,Martin Jenssen Sandvik,m,13562,Skatval Skilag,13584,Meråker Videregående skole,M18,Norway,2001
-4207791,Mathilde Hustoft,f,13805,Asker SK,0,,K Senior,Norway,1996
-4207824,Une Christiane Tronerud Kvelvane,f,13541,Voss Skiskytterlag,14671,Holmenkollen Biathlon,K Senior,Norway,1997
-4211596,Truls Løvaas Søvik,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-4212345,Marius Møller Schiefloe,m,13835,Steinkjer SK,16901,Team Innherred,M20-22,Norway,2004
-4213061,Ingeborg Smestu Holm,f,13869,Rennebu IL,13584,Meråker Videregående skole,K19,Norway,2001
-4213333,Håvard Haugen,m,13876,Tonstad IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,1999
-4213497,Sigurd Holemark,m,13877,Hønefoss Skiskytterklubb,0,,M20-22,Norway,2001
 4214374,Markus Ims Skåland,m,4778,Sandnes Skiskytterlag,13569,Sirdal Ski Skiskyting,M Senior,Norway,1997
-4250292,Martine Sofie Skog,f,13871,Bjerkvik IF,0,,K17,Norway,2007
-4252919,Anna Maria Ravndal,f,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,K Senior,Sweden,1992
-4255582,Martin Fagereng Fjellavli,m,13780,Skonseng UL,13575,Team Polarsirkelen,M20-22,Norway,2000
 426620,Henrik Tordhol Sverdrup,m,6871,Dombås IL,13946,Team Glalaks,M Senior,Norway,1997
 426677,Håvard Kne Galåen,m,6692,Røros IL,14671,Holmenkollen Biathlon,M Senior,Norway,1998
 426679,Magnus Horten,m,6949,Os IL,14721,Team Hugaas,M Senior,Norway,1998
-426689,Vetle Meli Narjord,m,6949,Os IL,15214,Team Savalen,M20-22,Norway,2003
-426695,Lars Horten Jordet,m,13861,Vingelen IL,15214,Team Savalen,M19,Norway,2005
-4297279,Marte Kristine Kollerød Høidalen,f,13925,Oslo Skiskytterlag,15632,Wang Toppidrett Romerike,K17,Norway,2007
-431255,Tobias Hallingstad,m,13898,Bærums Skiklub,0,,M18,Norway,2002
-431312,Sander Larsplass Johansen,m,13567,"Try, Idrettslaget",0,,M20-22,Norway,2001
 431387,Christian Bucher-Johannessen,m,13940,Fossum IF,0,,M Senior,Norway,2000
-431446,Kristoffer Krogh Wetterhus,m,13805,Asker SK,0,,M19,Norway,2000
-431447,Teodor Birkeland,m,13805,Asker SK,0,,M19,Norway,2000
 431544,Fredrik Arne Grusd,m,13940,Fossum IF,16839,"Team 1,5",M Senior,Norway,1999
 4315723,Håkon Hjelstuen,m,13925,Oslo Skiskytterlag,0,,M Senior,Norway,1992
-431693,Felix Haugen,m,13940,Fossum IF,15511,Team Fossum Elite,M20-22,Norway,2004
-431700,Eirik Syrdalen Dovland,m,13940,Fossum IF,0,,M18,Norway,2004
-431733,Marthe Dehn,f,13898,Bærums Skiklub,16902,Team Midt-Norge,K Senior,Norway,2000
 431858,Casper Jacobsen Furum,m,13898,Bærums Skiklub,16903,Team Woodcon,M Senior,Norway,2003
-431925,Sara Borchgrevink,f,13940,Fossum IF,14671,Holmenkollen Biathlon,K20-22,Norway,2000
 4319626,Aksel Emil Aasbø,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M Senior,Norway,2001
-4319628,Emma Aasen Strømsnes,f,7941,Lier IL,14634,Trondheim Biathlon Team,K20-22,Norway,2001
-432003,Thea Sletvold,f,13940,Fossum IF,0,,K18,Norway,2002
-432066,Amalie Denise Andersen,f,13925,Oslo Skiskytterlag,14671,Holmenkollen Biathlon,K19,Norway,2001
-4330988,Eva Liheim Alfstad,f,13940,Fossum IF,15511,Team Fossum Elite,K20-22,Norway,2003
-435092,Thelma Olea Gaarder,f,13552,Nittedal Skiskytterlag,0,,K17,Norway,2003
-435210,Hallvard Killingberg,m,13561,Oppdal IL,16902,Team Midt-Norge,M20-22,Norway,2003
-4357256,Andreas Aasen Haug,m,4810,Bø Skiskyttarlag,13585,NTG Geilo,M18,Norway,2006
-437120,Jakob Alfstadsæther,m,13796,Østre Toten Skilag,13586,NTG Lillehammer,M19,Norway,2004
-437541,Kristina Skjevdal,f,6692,Røros IL,0,,K Senior,Norway,1997
-4377122,Sigurd Trondssønn Hove,m,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,M17,Norway,2005
-438307,Bjørn Lindvik Stubrud,m,13870,Vingrom IL,0,,M20-22,Norway,2002
-438310,Christian Thon Christensen,m,6562,Skrautvål IL,13952,Team Mesterbakeren,M20-22,Norway,2002
-438513,Maria Brenna,f,6562,Skrautvål IL,0,,K19,Norway,2001
-438698,Storm Kristoffer Veitsle,m,13552,Nittedal Skiskytterlag,15632,Wang Toppidrett Romerike,M18,Norway,2006
-4392066,Linnea Fredrikke Andreassen Lundsett,f,13556,Drangedal Idrettslag,13569,Sirdal Ski Skiskyting,K18,Norway,2006
-4418895,Karoline Offigstad Knotten,f,13870,Vingrom IL,0,,K Senior,Norway,1995
-4426680,Rannveig Oma Løyning,f,13826,Odda IL,0,,K17,Norway,2007
-443259,Carina Pettersen,f,13858,Hammerfest SK,0,,K20-22,Norway,2002
-4440734,Tobias Alm,m,13796,Østre Toten Skilag,14721,Team Hugaas,M20-22,Norway,2002
-4440776,Markus Bredal,m,13864,Trondhjems Skiskyttere,0,,M17,Norway,2007
-4441557,Maren Bakken,f,6949,Os IL,0,,K Senior,Norway,2001
-4442989,Ragnhild Sofie Breimyr Hansen,f,13897,Froland IL,13569,Sirdal Ski Skiskyting,K19,Norway,2001
-4444229,Åste Eika,f,4810,Bø Skiskyttarlag,13570,Team TeVe,K19,Norway,2001
-4444898,Eirik Markus Rinde,m,13879,Vik IL,13946,Team Glalaks,M20-22,Norway,1999
-4445298,Magnus Raaum Langseth,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M20-22,Norway,1999
-4451011,Kasper Dagsland Gulbrandsen,m,4810,Bø Skiskyttarlag,13569,Sirdal Ski Skiskyting,M19,Norway,2001
-445260,Ingvild Marie Svardal,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K19,Norway,2004
 445278,Øistein Fagerli Næss,m,7189,Gjerdrum IL,16902,Team Midt-Norge,M Senior,Norway,2001
-445291,Herman Brunborg,m,13567,"Try, Idrettslaget",0,,M19,Norway,2001
-445456,Christian Friis Rud,m,13940,Fossum IF,0,,M20-22,Norway,2002
-445984,Pernille Sønsterudbråten,f,13893,Trysilgutten IL,0,,K20-22,Norway,2002
-4461078,Sivert Jøsang,m,15509,Sandnes og Gjesdal SSL,13569,Sirdal Ski Skiskyting,M18,Norway,2006
-4469268,Vegard Thon,m,6562,Skrautvål IL,13581,Team Valdres Ski,M20-22,Norway,2002
 4473183,Morten Tørnblad Sameien,m,13554,Fet SK,16839,"Team 1,5",M Senior,Norway,2001
-4495737,Marcus Bakkely,m,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,M17,Norway,2006
 4496387,Torbjørn Oppigard,m,13797,Molde og Omegn IF,0,,M Senior,Norway,1999
-4496571,Yann Gouy,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,1999
-4497299,Helene Sæter,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K19,Norway,2005
-4498735,Thomas Oliver Wallin Higgins,m,13898,Bærums Skiklub,0,,M19,Norway,2000
-4502156,Sander Fremo Lefdal,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M20-22,Norway,2001
-4502286,Cornelia Zachariassen Rørvik,f,4778,Sandnes Skiskytterlag,14672,Team iSandnes,K20-21,Norway,1999
-4502404,Martin Løvaas Søvik,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M19,Norway,2004
-4511636,Syver Brøste Nørstegård,m,6871,Dombås IL,13586,NTG Lillehammer,M19,Norway,2003
-4511887,Lisa Neraas,f,13940,Fossum IF,13590,Wang Toppidrett,K19,Norway,2000
-4516990,Emilie Katrine Bilgrav Sæther,f,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,K19,Norway,2000
 4517108,Vetle Årsvoll Undheim,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,1997
-4517698,Ludvig Amundsen,m,13866,Tretten Skiskytterlag,13586,NTG Lillehammer,M19,Norway,2000
-4524593,Randi Sollid Nordvang,f,13861,Vingelen IL,14677,Team Maxim,K Senior,Norway,1998
-4524795,Mari Brenna,f,6871,Dombås IL,15187,Team Nord-Østerdal,K18,Norway,2003
-4526375,Lea Camilla Kjørmo Østrem,f,13876,Tonstad IL,13569,Sirdal Ski Skiskyting,K17,Norway,2005
-456987,Hege Kittelsen,f,13558,Idrettslaget Dyre Vaa,0,,K Senior,Norway,1997
-4571315,Even Martinsson,m,13809,Åsnes Skiskytterlag,0,,M18,Norway,2001
 4571866,Åsbjørn Langeland Øvland,m,13806,Øvrebø IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,2001
-4576577,Vemund Kragh,m,13942,IL Bevern,16836,Team Fosen Yard,M20-22,Norway,2002
-4580391,Håvard Heie Bjørndal,m,6660,Hålandsdal IL,13946,Team Glalaks,M20-22,Norway,2000
-458080,Nora Johanne Nystog,f,13558,Idrettslaget Dyre Vaa,13570,Team TeVe,K17,Norway,2003
-458928,Maria Felicia Eide Kaasbøll,f,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,K19,Norway,2000
-461528,Tora Eid Løvås,f,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,K20-22,Norway,1999
 4657636,Thomas Torkildsen,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,2007
-467493,Herborg Idland,f,6239,Figgjo IL,15168,Team Blåne,K20-22,Norway,2003
-4678100,Erik Bøylestad,m,13897,Froland IL,0,,M18,Norway,2004
-4692833,Håkon Hauge Gunnes,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-22,Norway,2000
 4694290,Christian Prytz Mjølstad,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M Senior,Norway,2007
-4702333,Simen Melaaen Døssland,m,7941,Lier IL,0,,M17,Norway,2004
-4702368,Anders Woo Weium Amdal,m,13940,Fossum IF,0,,M17,Norway,2002
-4702448,Hans Knoph Birkeland,m,13940,Fossum IF,0,,M18,Norway,2002
-4702828,Ole Christian Johnsrud,m,2576,Bjerke IL Ski,14671,Holmenkollen Biathlon,M20-22,Norway,1999
 4702949,Henrik Labée-Lund,m,13925,Oslo Skiskytterlag,0,,M Senior,Norway,1986
 4703037,Jacob Weel Rosbo,m,13870,Vingrom IL,13951,Team Kongsberg,M Senior,Norway,2000
-4703598,Åsne Ulvund,f,13885,Eldar IL,14670,Team Woodcon,K Senior,Norway,1995
 4703956,Anders Sønsteby Flaagen,m,13779,Søndre Ål Sportsklubb,0,,M Senior,Norway,1998
-4704451,Oscar Henrik Madsstuen,m,0,,0,,M19,Sweden,2000
-4704637,Caroline Grotøy Bjørgum,f,13940,Fossum IF,0,,K19,Norway,2001
-4705113,Sindre Christoffer Tyldum Andresen,m,7941,Lier IL,13577,Team Skiguard Buskerud,M20-21,Norway,1998
-4706075,Ingrid Alterskjær Eriksen,f,13865,Målselvs Skiskyttere,0,,K18,Norway,2004
-4706090,Malin Tobro Rønningen,f,13861,Vingelen IL,15214,Team Savalen,K19,Norway,2004
-4706121,Jon Sebastian Olsen,m,7941,Lier IL,13585,NTG Geilo,M19,Norway,2005
-4706463,Sindre Solbakken,m,2576,Bjerke IL Ski,0,,M17,Norway,2002
-4706502,Ole Tafjord Suhrke,m,4815,Ivrig IL,16836,Team Fosen Yard,M20-22,Norway,2002
-4706523,Augusta Idland,f,6239,Figgjo IL,14672,Team iSandnes,K19,Norway,2000
 4706561,Miles Cawood,m,0,,0,,M Senior,United Kingdom,1999
 4706562,Vinny Fountain,m,0,,0,,M Senior,United Kingdom,1991
-4706563,Sam Grist,f,0,,0,,K Senior,United Kingdom,1995
 4706564,Adam Peacock,m,0,,0,,M Senior,United Kingdom,1992
 4706565,Brett Stevens,m,0,,0,,M Senior,United Kingdom,1993
 4706567,James Smith,m,0,,0,,M Senior,United Kingdom,1990
 4706571,Adam Williams,m,0,,0,,M Senior,United Kingdom,1995
-4706853,Sindre Jøranli,m,13836,Nordre Land IL,13586,NTG Lillehammer,M18,Norway,2006
 4707546,Jim Christofer Eriksson,m,0,,0,,M Senior,Sweden,1989
 4707549,Christofer Eriksson,m,0,,0,,M Senior,Sweden,1989
-4707574,Marte Riddervold,f,13805,Asker SK,0,,K18,Norway,2001
-4707961,Andreas Striger Halset,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-4708347,Eileen Bjanes,f,13898,Bærums Skiklub,15163,Dønski VGS,K19,Norway,2004
 4708461,Håkon Frøseth,m,13841,Sokna IL,14634,Trondheim Biathlon Team,M Senior,Norway,1999
 4709232,Ben Woolsley,m,0,,0,,M Senior,United Kingdom,1986
-4709564,Oscar Strandsæter Engelien,m,13554,Fet SK,13590,Wang Toppidrett,M18,Norway,2002
-4709612,Casper Eistein Dege Simonsen,m,13940,Fossum IF,0,,M17,Norway,2003
-4709685,Fredrik Møller,m,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,M17,Norway,2003
-4710075,Cornelia Lynne,f,13805,Asker SK,0,,K18,Norway,2004
-4710261,Sindre Gursli,m,13806,Øvrebø IL,13569,Sirdal Ski Skiskyting,M18,Norway,2002
-4710899,Ingrid Gylterud Kvålsgard,f,13940,Fossum IF,13590,Wang Toppidrett,K19,Norway,2000
-4710923,Vegard Værnes,m,13869,Rennebu IL,13584,Meråker Videregående skole,M17,Norway,2002
-4710971,Håvard Mo,m,13902,Orkdal IL,14723,Team Knyken,M20-22,Norway,2000
-4710995,Marius Tjelde Vaagen,m,13797,Molde og Omegn IF,0,,M20-21,Norway,1999
-4711058,Martine Landrø Monsen,f,13902,Orkdal IL,14723,Team Knyken,K18,Norway,2004
-4711570,Martin Andersen,m,13554,Fet SK,15632,Wang Toppidrett Romerike,M17,Norway,2006
-4711725,Katinka Dorothea Rayner-Battle Kleveland,f,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,K Senior,Norway,1999
-4712756,Gunn Kristi Stensaker Tvinnereim,f,13845,Hardbagg IL,16903,Team Woodcon,K20-22,Norway,2002
-4712785,Hedvig Marie Solberg,f,13940,Fossum IF,13590,Wang Toppidrett,K18,Norway,2002
-4712807,Mari Andrea Kilskar Grevskott,f,13905,Frol IL,14634,Trondheim Biathlon Team,K20-22,Norway,2001
-4712892,Marius Nygård Fidjeland,m,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,M18,Norway,2006
-4713075,Magnus Otterstad,m,13847,Hernes IL,13590,Wang Toppidrett,M18,Norway,2001
-4713653,Fridtjof Eriksen,m,13562,Skatval Skilag,15510,Team Meråker Skiskyting,M18,Norway,2005
-4719274,Kristiane Almeland Rolstad,f,13925,Oslo Skiskytterlag,0,,K20-22,Norway,2002
-4719275,Ingeborg Almeland Rolstad,f,13925,Oslo Skiskytterlag,13586,NTG Lillehammer,K18,Norway,2002
-4722097,Gro Njølstad Randby,f,4815,Ivrig IL,0,,K Senior,Norway,2002
-4722305,Marius Eriksen Lund,m,13865,Målselvs Skiskyttere,0,,M18,Norway,2005
 4722452,Eirik Dramdal Borge,m,13890,Svene IL,0,,M Senior,Norway,1991
 4722679,Thomas Storvik,m,13898,Bærums Skiklub,14634,Trondheim Biathlon Team,M Senior,Norway,1996
 4724965,Anders Brun Hennum,m,7941,Lier IL,0,,M Senior,Norway,1987
-4725854,Marius Ulvestad Andersen,m,13857,Seljord Idrettslag,13570,Team TeVe,M17,Norway,2007
-4726574,Emil Kristian Kjeldsø Sjöberg,m,13927,Tromsø Skiskytterlag,13584,Meråker Videregående skole,M19,Norway,2001
-4726705,Frøya Horten Brouwer,f,13552,Nittedal Skiskytterlag,15632,Wang Toppidrett Romerike,K19,Norway,2004
-4726723,Signe Aaberg Skar,f,13898,Bærums Skiklub,13951,Team Kongsberg,K20-22,Norway,2004
-4726732,Caroline Christine Barth,f,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,K17,Norway,2007
-4726752,Anne Birgit Dokken,f,13836,Nordre Land IL,13586,NTG Lillehammer,K17,Norway,2007
-4726761,Olav Hallingstad,m,13898,Bærums Skiklub,15631,Wang Toppidrett Oslo,M19,Norway,2005
-4726763,Jacob Jæger Barth,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M19,Norway,2005
-4726766,Elise Nygård Thorseng,f,13940,Fossum IF,0,,K17,Norway,2005
-4726805,Andrea Alfstadsæther,f,13796,Østre Toten Skilag,13586,NTG Lillehammer,K17,Norway,2007
-4730188,Sunniva Thoresen Bolstad,f,6091,Simostranda IL,13585,NTG Geilo,K19,Norway,2005
-4732743,Oda Støen Kolkinn,f,13779,Søndre Ål Sportsklubb,13951,Team Kongsberg,K Senior,Norway,2000
-4732941,Pernille Alexandra Rud,f,13940,Fossum IF,14671,Holmenkollen Biathlon,K20-22,Norway,2004
-4733156,Sivert Bjørndalen,m,6091,Simostranda IL,14678,Team Geilo,M20-22,Norway,2003
-4734558,Heine Hoston Stiklestad,m,13902,Orkdal IL,14634,Trondheim Biathlon Team,M17,Norway,2007
-4735098,Sondre Michael Brännare-Gran,m,13898,Bærums Skiklub,14678,Team Geilo,M20-22,Norway,2002
-4735369,Andrea Sørheim Almeland,f,6866,Kvam Langrenn- og Skiskyttarklubb,15512,Team Gla'Laks Biathlon,K18,Norway,2006
-4736335,Tuva Bøch Høyer,f,13940,Fossum IF,15163,Dønski VGS,K19,Norway,2005
-4736497,Ingeborg Heggdal,f,13797,Molde og Omegn IF,0,,K20-22,Norway,2000
-4736748,Toril Bakka Nygård,f,13839,Haltdalen IL,0,,K20-22,Norway,1998
-4736973,Ida Madeleine Fuglset,f,13552,Nittedal Skiskytterlag,15632,Wang Toppidrett Romerike,K19,Norway,2005
-4737136,Kevin Tongsamer Sigdestad,m,13795,Volda Turn og IL,13589,Stryn Videregående Skole,M17,Norway,2005
-4744515,Alexander Olsen Tviland,m,13897,Froland IL,0,,M17,Norway,2003
-4756573,Stella Heim,f,13927,Tromsø Skiskytterlag,13587,NTG-T,K17,Norway,2007
-4756857,Astrid Marie Sandhaugen,f,13835,Steinkjer SK,16901,Team Innherred,K17,Norway,2007
-4757922,Odin Elias Brøndbo-Tronstad,m,13867,Snåsa Skiskytterlag,13593,Steinkjer Videregående Skole,M20-22,Norway,2003
 4758071,John Olav Steinsland,m,13806,Øvrebø IL,0,,M Senior,Norway,1993
 4758113,Martin Myrstad,m,13806,Øvrebø IL,0,,M Senior,Norway,1993
-4758507,Peder Andreas Aas,m,13554,Fet SK,13586,NTG Lillehammer,M19,Norway,2003
-4765952,Robert Ursin-Holm Walle,m,4815,Ivrig IL,13570,Team TeVe,M19,Norway,2005
-4766343,Marion Halvorsen Nustad,f,13866,Tretten Skiskytterlag,0,,K18,Norway,2002
-4768969,Jens Nereng,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M17,Norway,2004
-4770503,Thomas Leikvangen Lysvold,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M19,Norway,2004
-4770519,Ida Baasland Solbjørg,f,6268,Moi IL,13569,Sirdal Ski Skiskyting,K20-22,Norway,2000
-4770536,Sofie Muren Reenberg,f,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,K19,Norway,2005
-4771012,Vilde Aamlid,f,13804,Fyresdal Skiskyttarlag,13570,Team TeVe,K19,Norway,2001
-4771092,Sindre Andreas Søby,m,4815,Ivrig IL,13570,Team TeVe,M19,Norway,2005
-4783109,Odd Wæhre,m,7182,Meråker Skiskytterklubb,0,,M20-22,Norway,1999
-4792422,Rebecka Oppigard,f,13555,Eikesdal Skiskyttarlag,0,,K20-22,Norway,2001
-4795503,Andora Regine Aas,f,13858,Hammerfest SK,0,,K Senior,Norway,2001
-4795750,Jon Einar Mattias Visser,m,7182,Meråker Skiskytterklubb,13584,Meråker Videregående skole,M17,Netherlands,2002
-4797213,Nina Galtung Skar,f,13940,Fossum IF,0,,K18,Norway,2005
-4797675,Darya Sepandj,f,14636,Foreign Citizen,0,,K Senior,Canada,1997
-4797676,Zoe Pekos,f,14636,Foreign Citizen,0,,K20-21,Canada,1998
-4797677,Larissa Black,f,14636,Foreign Citizen,0,,K20-21,Canada,1999
-4797680,Haldan Borglum,m,14636,Foreign Citizen,0,,M20-21,Canada,1999
-4797681,Thomas Hulsman,m,14636,Foreign Citizen,0,,M20-21,Canada,1999
-4797683,Andrei Secu,m,14636,Foreign Citizen,0,,M20-21,Canada,1999
-4797684,Shilo Rousseau,f,14636,Foreign Citizen,0,,K19,Canada,2000
-4797685,Ryan Elden,m,14636,Foreign Citizen,0,,M20-21,Canada,1999
-4799600,Amund Grann Vingelen,m,13861,Vingelen IL,14436,Team Toyota Slettum Bil,M19,Norway,2001
 4817294,Johannes Skjerveggen Græe,m,13541,Voss Skiskytterlag,13589,Stryn Videregående Skole,M Senior,Norway,2004
-4825921,Sondre Sangvik Nilsen,m,13806,Øvrebø IL,13569,Sirdal Ski Skiskyting,M19,Norway,2005
-4898324,Gun Ingela Andersson,f,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,K Senior,Sweden,1991
-4911020,Rasmus Krogstad,m,13567,"Try, Idrettslaget",14670,Team Woodcon,M20-21,Norway,1998
-491951,Håkon Hannevold,m,13931,Drammen Strong,14671,Holmenkollen Biathlon,M20-22,Norway,2003
-493636,Marte Olsbu Røiseland,f,13897,Froland IL,0,,K Senior,Norway,1990
 493661,Endre WOLD,m,13879,Vik IL,0,,M Senior,Norway,1996
 520172,Markus Zachariassen Rørvik,m,4778,Sandnes Skiskytterlag,13569,Sirdal Ski Skiskyting,M Senior,Norway,1996
 520179,Anders Løvland,m,6268,Moi IL,0,,M Senior,Norway,1996
-520897,Ina-Mari Skoglund,f,13788,Alta Skiskytterlag,0,,K17,Norway,2005
-520943,Jørgen Strøm,m,13788,Alta Skiskytterlag,0,,M19,Norway,2000
-520951,Mathias Witte,m,13788,Alta Skiskytterlag,0,,M20-21,Norway,1999
-524043,Kaia Bjønnes,f,13898,Bærums Skiklub,0,,K20-22,Norway,2004
-524119,Casper Stenstadvold,m,13940,Fossum IF,15163,Dønski VGS,M17,Norway,2003
-524184,Maja Friis Rud,f,13940,Fossum IF,15511,Team Fossum Elite,K20-22,Norway,2002
-525649,Vetle Schjønberg Thordarson,m,13563,Lørenskog SK,0,,M17,Norway,2003
-525695,Sondre Løkke Hagen,m,13838,Tingvoll IL,0,,M20-22,Norway,2002
-525696,Iver Slupphaug,m,13902,Orkdal IL,16902,Team Midt-Norge,M20-22,Norway,2002
-525697,Mats Schei,m,13881,Skauga IL,13584,Meråker Videregående skole,M18,Norway,2001
 525707,Adrian Fløttum,m,13841,Sokna IL,14634,Trondheim Biathlon Team,M Senior,Norway,1997
-525728,Line Sølberg,f,13874,"Leik, IL",14634,Trondheim Biathlon Team,K20-21,Norway,1998
-527091,Juni Arnekleiv,f,6871,Dombås IL,0,,K Senior,Norway,1999
-527096,Emil Kastås-Asbøll,m,13902,Orkdal IL,14723,Team Knyken,M17,Norway,2003
-527101,Arnt Johan Tungen,m,13902,Orkdal IL,14723,Team Knyken,M18,Norway,2002
 527116,Ola Nymoen Aas,m,6692,Røros IL,14634,Trondheim Biathlon Team,M Senior,Norway,1998
 527117,Magnus Gjersvold Haug,m,4791,Byåsen Skiskytterlag,0,,M Senior,Norway,1998
-528984,Tov Røysland,m,14638,Tinn Skiskytterlag,13585,NTG Geilo,M18,Norway,2006
-538306,Asgeir Espeland,m,13812,Tynset IF,14436,Team Toyota Slettum Bil,M19,Norway,2001
-538309,Jann Krister Benberg,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M20-22,Norway,2002
-539006,Marita Helen Olsen,f,13871,Bjerkvik IF,0,,K18,Norway,2004
 543528,Aleksander Fjeld Andersen,m,13859,Geilo IL,0,,M Senior,Norway,1997
-545740,William Eidissen,m,13567,"Try, Idrettslaget",13590,Wang Toppidrett,M17,Norway,2004
-5478645,Odin Høie Vollum,m,13921,MjøsSki,14670,Team Woodcon,M18,Norway,2002
-5481916,Anja Fischer,f,13864,Trondhjems Skiskyttere,16902,Team Midt-Norge,K Senior,Switzerland,1999
 548543,Andreas Dahlø Wærnes,m,13864,Trondhjems Skiskyttere,0,,M Senior,Norway,1990
-5546204,Silje Christine Berg-Knutsen,f,13554,Fet SK,13586,NTG Lillehammer,K19,Norway,2005
-5546403,Eiril Høistad Nordbø,f,13554,Fet SK,13586,NTG Lillehammer,K18,Norway,2006
-5547176,Marit Østhus,f,13929,"Nor, IL",16903,Team Woodcon,K Senior,Norway,2001
-5553098,Håvard Tosterud,m,13796,Østre Toten Skilag,0,,M20-22,Norway,2004
 555771,Brage Malm MONSTAD,m,7941,Lier IL,0,,M Senior,Norway,1996
-555828,Ingvild Berlandstveit,f,6660,Hålandsdal IL,0,,K Senior,Norway,1995
-5563876,Mads Arnevik Jensen,m,13864,Trondhjems Skiskyttere,16902,Team Midt-Norge,M20-22,Norway,2003
-5565555,Erik Sjømo,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M18,Norway,2006
-5577286,Sondre Røyne Valle,m,13872,Gjøvik SK,15168,Team Blåne,M19,Norway,2003
 5582240,Johan-Olav Smørdal Botn,m,13895,Stårheim IL,0,,M Senior,Norway,1999
-5583487,Maria Bertine Sleire Tistel,f,13879,Vik IL,0,,K Senior,Norway,2002
-5594366,Helena Bjærke Pindard,f,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,K17,Norway,2007
-5595002,Hans Tvilde,m,13541,Voss Skiskytterlag,13946,Team Glalaks,M20-22,Norway,2001
-5596591,Sondre Sandal,m,15509,Sandnes og Gjesdal SSL,13569,Sirdal Ski Skiskyting,M19,Norway,2003
-5597461,Andreas Koppa,m,13876,Tonstad IL,13569,Sirdal Ski Skiskyting,M18,Norway,2002
-5599662,Vegard Uv Værnes,m,13869,Rennebu IL,13584,Meråker Videregående skole,M18,Norway,2002
-5612350,Andrea Marie Hanshus,f,13841,Sokna IL,0,,K19,Norway,2003
-562164,Sondre Rokke,m,13925,Oslo Skiskytterlag,13590,Wang Toppidrett,M17,Norway,2003
 5625471,Chris André Jespersen,m,4791,Byåsen Skiskytterlag,0,,M Senior,Norway,1983
-5644661,Thor Boye,m,16633,Trysil IL,0,,M18,Denmark,2006
-5656860,Ragna Kolve,f,13541,Voss Skiskytterlag,13946,Team Glalaks,K19,Norway,2001
-5657688,Eira Reier Groven,f,13931,Drammen Strong,14671,Holmenkollen Biathlon,K20-22,Norway,2003
-566164,Rasmus Odland Kvamme,m,13927,Tromsø Skiskytterlag,14642,Team Troms & Finnmark,M20-21,Norway,1999
-5663440,Christoffer Eidissen,m,13567,"Try, Idrettslaget",0,,M20-22,Norway,2001
-5663722,Jon Bjarte Rinde,m,13879,Vik IL,13585,NTG Geilo,M18,Norway,2006
-5663956,Maria Tormodsgard Dokken,f,13890,Svene IL,13585,NTG Geilo,K19,Norway,2005
-5664858,Tarald Neumann Rødland,m,13940,Fossum IF,0,,M19,Norway,2001
-5665167,Marita Steffensen,f,2609,Båtsfjord Sportsklubb,0,,K20-22,Norway,2002
-5666465,Thomas Skikstein,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M18,Norway,2006
-5666532,Benjamin Vinda,m,7941,Lier IL,13585,NTG Geilo,M18,Norway,2006
-5666557,Are Sæther Midtbø,m,13804,Fyresdal Skiskyttarlag,13570,Team TeVe,M17,Norway,2003
-5666738,Tord Gjellerud,m,13890,Svene IL,13951,Team Kongsberg,M17,Norway,2003
-5666739,Niri Gjellerud,m,13890,Svene IL,13951,Team Kongsberg,M17,Norway,2005
-5666770,Anette Jørgensen,f,13858,Hammerfest SK,0,,K Senior,Norway,2003
-571964,Sindre Sundhaugen,m,13796,Østre Toten Skilag,13572,Team Lygna skiskyting,M19,Norway,2000
 573958,Martin Bjørndalen Mathisen,m,6091,Simostranda IL,14670,Team Woodcon,M Senior,Norway,1997
-5745418,Anneli Aamo,f,6141,Nordreisa Idrettslag,15190,Nordnorsk Skilinje,K20-22,Norway,2002
-5745572,Astrid Juli Ytterbø,f,13805,Asker SK,0,,K18,Norway,2006
-5745623,Christina Ananda Gunnerud Rønning,f,7941,Lier IL,14436,Team Toyota Slettum Bil,K18,Norway,2002
-5745966,Sondre Borgedal,m,13921,MjøsSki,15510,Team Meråker Skiskyting,M17,Norway,2007
 5746070,Marius Åsterup  Larsen,m,13879,Vik IL,13946,Team Glalaks,M Senior,Norway,2000
-5746322,Elina Bakkevig Moen,f,13940,Fossum IF,0,,K19,Norway,2004
-5746329,Eline Horten Jordet,f,13861,Vingelen IL,15214,Team Savalen,K19,Norway,2004
-5746397,Arild Baumann,m,13567,"Try, Idrettslaget",0,,M19,Norway,2004
-5746501,Siri Årsvoll Undheim,f,6239,Figgjo IL,14670,Team Woodcon,K20-22,Norway,2001
-5746645,Sigurd Stuen,m,13869,Rennebu IL,15510,Team Meråker Skiskyting,M19,Norway,2004
-5746662,Kaja Aamlid,f,13804,Fyresdal Skiskyttarlag,13570,Team TeVe,K17,Norway,2003
-5746693,Oda Rafen,f,13940,Fossum IF,15511,Team Fossum Elite,K20-22,Norway,2003
-5746845,Tobias Bjørken,m,13922,Vinne Skilag,15510,Team Meråker Skiskyting,M19,Norway,2005
-5746921,Inga Overland,f,13867,Snåsa Skiskytterlag,16901,Team Innherred,K19,Norway,2005
-5747066,Kasper Mundal,m,13895,Stårheim IL,13589,Stryn Videregående Skole,M19,Norway,2003
-5747115,Jon Einar Mattias Visser,m,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,M20-22,Netherlands,2002
-5747128,Sofie Lorås,f,13562,Skatval Skilag,0,,K17,Norway,2003
-5747149,Iver Gjedrem Lund,m,13922,Vinne Skilag,0,,M20-22,Norway,2003
-5747201,Martin Hillestad,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M19,Norway,2004
-5747287,Ola Martinsson,m,13809,Åsnes Skiskytterlag,13586,NTG Lillehammer,M17,Norway,2005
-5747360,Kristian Fredrik Fleischer,m,13562,Skatval Skilag,15510,Team Meråker Skiskyting,M17,Norway,2007
-5752954,Johan Skodvin,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M18,Norway,2006
-5753054,Joachim Kleivstul Lambine,m,13925,Oslo Skiskytterlag,0,,M17,Norway,2003
-5753879,Tobias Sletvold,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M17,Norway,2007
-5773751,Magnus Skogstad Torp,m,13921,MjøsSki,0,,M18,Norway,2006
-5773782,Elias Haugstad,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M18,Norway,2006
-5773958,Mia Egaas,f,16524,Kvinesdal ski- og skiskytterlag,13569,Sirdal Ski Skiskyting,K18,Norway,2006
-5774320,Linlin Wang,f,0,,15166,Team China,K Senior,Norway,1997
-5774343,Maria Felicia Eide Kaasbøll,f,13864,Trondhjems Skiskyttere,0,,K20-22,Norway,2000
-5774464,Anna Lovise Røe,f,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,K18,Norway,2006
-5774800,Marte Eriksen Hensema,f,13944,Bødalen IF,0,,K Senior,Norway,1999
-5775547,Lisa Grubben,f,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,K17,Norway,2007
-5777417,Fanny Horn Birkeland,f,13928,Birkenes IL,0,,K Senior,Norway,1988
-5780933,Qi Ran,f,0,,0,,K20-22,Norway,1999
-5780934,Zhang Zhenhai,m,0,,0,,M20-22,Norway,2000
-5780935,Zhao Lei,m,0,,0,,M20-22,Norway,2000
-5780937,Wuerying Mulati,m,0,,0,,M19,Norway,2001
-5790380,Yuan Li,m,0,,15166,Team China,M19,China,2001
-5790389,Yufan Li,m,0,,15166,Team China,M20-22,China,2000
-579360,Martin Solberg,m,13897,Froland IL,0,,M20-21,Norway,1999
-5797263,Matias Due,m,13541,Voss Skiskytterlag,0,,M19,Norway,2004
-5799662,Johanna Elisabeth Pettersen Næstad,f,13870,Vingrom IL,16526,Team Karidalen Skiskyting,K17,Norway,2007
-5800898,Tim Cobb,m,13876,Tonstad IL,13569,Sirdal Ski Skiskyting,M20-22,United States,2001
-5801011,"Yuanyuan  Zhang ",f,0,,15166,Team China,K19,China,2001
-5801013,"Shinan  Pu ",m,0,,15166,Team China,M18,China,2002
-5802032,Oscar Andersson,m,0,,0,,M18,Sweden,2002
-5802370,Thor Arild Aas,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,1999
-5802977,Lucas Höiby,m,0,,0,,M19,Sweden,2001
-5802981,Wuyerying Mulati,m,0,,0,,M19,China,2001
-5811963,Philip Lindkvist-Fløtten,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M18,Norway,2006
-581271,Hilde Fosse,f,13541,Voss Skiskytterlag,13946,Team Glalaks,K20-22,Norway,1999
-581396,Kristin SANDE,f,6866,Kvam Langrenn- og Skiskyttarklubb,14677,Team Maxim,K Senior,Norway,1998
-5820276,Christoffer Mortensen Nilsen,m,13784,Ullensaker SK,13584,Meråker Videregående skole,M19,Norway,2003
-5823384,Henrik Schioldborg Nesse,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2004
-582439,Knut Lussand Selheim,m,13541,Voss Skiskytterlag,14671,Holmenkollen Biathlon,M20-22,Norway,1998
-582471,Silje Fosse,f,13541,Voss Skiskytterlag,0,,K20-21,Norway,1998
-5844900,Andreas Aarseth,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M17,Norway,2006
-5846426,Thelma Olea Gaarder,f,13552,Nittedal Skiskytterlag,0,,K19,Norway,2003
-5858134,Marie Opberget Amundsen,f,13554,Fet SK,13584,Meråker Videregående skole,K18,Norway,2005
-5858187,Kaia Wulff Berntsen,f,13805,Asker SK,14671,Holmenkollen Biathlon,K20-22,Norway,2004
-5859022,Magnus Dale Engen,m,13554,Fet SK,15632,Wang Toppidrett Romerike,M18,Norway,2006
 5859183,Mathias Indrelid Haugen,m,13796,Østre Toten Skilag,14721,Team Hugaas,M Senior,Norway,2000
-5862656,Anniken Bergh,f,13567,"Try, Idrettslaget",15632,Wang Toppidrett Romerike,K19,Norway,2005
 5865444,Morten André Skånøy Søraas,m,13881,Skauga IL,16902,Team Midt-Norge,M Senior,Norway,2000
-5867435,Olivia Opheim,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2005
-5868167,Asbjørn Christian Hedebo Boye,m,16633,Trysil IL,0,,M20-22,Denmark,2004
-5871528,Eikil Elias Aasbø,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2003
 587178,Espen Tronsmo Sonflå,m,7182,Meråker Skiskytterklubb,13582,Team Skistua Hemsedal,M Senior,Norway,1994
-5873144,Hedda Strandsæter Engelien,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K19,Norway,2005
 5873648,Sverre Ryland Glomnes,m,13554,Fet SK,14671,Holmenkollen Biathlon,M Senior,Norway,1996
-5874360,Ane Hagset Stavnesli,f,13797,Molde og Omegn IF,14634,Trondheim Biathlon Team,K20-22,Norway,2001
-5874910,Olav Solan Knudsen Renolen,m,13554,Fet SK,16839,"Team 1,5",M20-22,Norway,2002
-5886962,Edvard Haugen,m,13801,Skjåk IL,13589,Stryn Videregående Skole,M19,Norway,2005
-5887228,Jenny Fellman,f,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,K Senior,Finland,1997
-5887261,Maja Tørhaug Brevad,f,13913,Kvikne IL,15214,Team Savalen,K17,Norway,2006
-5888669,Erik Gulstad,m,13927,Tromsø Skiskytterlag,13587,NTG-T,M19,Norway,2003
-5888745,Leander Aunvik,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M18,Norway,2006
-5889656,Frida Vikin,f,13869,Rennebu IL,15510,Team Meråker Skiskyting,K Senior,Norway,2006
-5890450,August Kirkeby Husebø,m,13925,Oslo Skiskytterlag,13586,NTG Lillehammer,M17,Norway,2007
-5890480,Eirik Fjelddahl Hagen,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M19,Norway,2003
-5893504,Stella Lekhal Husnes,f,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,K17,Norway,2007
-5894832,Olve Rønning,m,13913,Kvikne IL,15214,Team Savalen,M17,Norway,2007
-5898578,Mari Fosse Vaksdal,f,13541,Voss Skiskytterlag,14671,Holmenkollen Biathlon,K20-22,Norway,2001
-5915946,Julie Olsson,f,13812,Tynset IF,15214,Team Savalen,K17,Norway,2006
-5916312,Mari Brenna,f,6871,Dombås IL,15214,Team Savalen,K19,Norway,2003
-5917342,Olve Vestrheim,m,6449,"Ørn, Idrettsforening",15510,Team Meråker Skiskyting,M19,Norway,2005
-5930541,Sara Agnethe Granvang Tronrud,f,13836,Nordre Land IL,13586,NTG Lillehammer,K18,Norway,2006
-593170,Magnus Stampe,m,13931,Drammen Strong,14678,Team Geilo,M20-22,Norway,2003
-5941519,Jørgen Lindanger,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M19,Norway,2004
-5942544,Anders Alme Eng,m,13836,Nordre Land IL,15168,Team Blåne,M20-22,Norway,2002
-5946373,William Eidissen,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M19,Norway,2004
-5951389,Kristina Hofstad,f,13562,Skatval Skilag,15510,Team Meråker Skiskyting,K18,Norway,2004
-5951503,Espen Haugøy,m,13898,Bærums Skiklub,0,,M20-22,Norway,2001
-595589,Karoline Erdal,f,13790,Førde IL,16836,Team Fosen Yard,K Senior,Norway,1997
-5956192,Tuva Knutsen Bakkelund,f,13898,Bærums Skiklub,13585,NTG Geilo,K17,Norway,2007
-5956550,Eirin Mansaas Sletten,f,13554,Fet SK,15632,Wang Toppidrett Romerike,K19,Norway,2005
-5957272,Sindre Kåsene,m,13554,Fet SK,15632,Wang Toppidrett Romerike,M18,Norway,2006
-5962800,Julia Kink,f,0,,13586,NTG Lillehammer,K18,Germany,2004
-5964523,Ask Grøtan Wang,m,13940,Fossum IF,16836,Team Fosen Yard,M20-22,Norway,2003
-5974368,Oliver Sandbæk-Skjørten,m,13567,"Try, Idrettslaget",15632,Wang Toppidrett Romerike,M17,Norway,2007
-5989905,Vilde Marie Thon Christensen,f,6562,Skrautvål IL,13581,Team Valdres Ski,K18,Norway,2005
-599297,Kristin Hopsnes,f,13938,Fana IL,13585,NTG Geilo,K17,Norway,2007
-5993344,Sam Sterz,m,0,,13569,Sirdal Ski Skiskyting,M20-22,United States,2002
-5993813,Siri Galtung Skar,f,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,K20-22,Norway,2003
-5994864,Elin Græsli,f,13848,Tydal il,14634,Trondheim Biathlon Team,K17,Norway,2007
 5995990,Max Barchewitz,m,0,,0,,M Senior,Germany,1998
 5995991,Florian Hollandt,m,0,,0,,M Senior,Germany,1996
 5995992,Lucas Lechner,m,0,,0,,M Senior,Germany,1999
-5996560,Tuva Gundersen Leivestad,f,13940,Fossum IF,13585,NTG Geilo,K17,Norway,2007
-5996583,Magnus Hørthe Lollik-Andersen,m,7941,Lier IL,13585,NTG Geilo,M18,Norway,2006
 5997827,Marek Mackels,m,0,,15168,Team Blåne,M Senior,Belgium,1999
-6007731,Stine Hårstad,f,13869,Rennebu IL,13586,NTG Lillehammer,K17,Norway,2007
-6010277,Erik Dale,m,13554,Fet SK,0,,M17,Norway,2005
-6012593,Elise Berntsen Løvland,f,13566,Laksvatn Skiskytterlag,0,,K17,Norway,2005
-6014575,Anine Schrader Kvernerud,f,13805,Asker SK,16839,"Team 1,5",K Senior,Norway,2004
-6015794,Tuva Jorde,f,13859,Geilo IL,14678,Team Geilo,K18,Norway,2004
-6017200,Maren Sofie Brännare-Gran,f,13898,Bærums Skiklub,0,,K20-22,Norway,2004
-6018465,Maia Løkken,f,13841,Sokna IL,14634,Trondheim Biathlon Team,K17,Norway,2007
-6020531,Mari Sofi Meland,f,13912,Markane IL,13589,Stryn Videregående Skole,K19,Norway,2005
-6025934,Malin Heggvold,f,13841,Sokna IL,14634,Trondheim Biathlon Team,K17,Norway,2007
-6027068,Mathias Sørnes,m,7941,Lier IL,14678,Team Geilo,M20-22,Norway,2002
-6028514,Andreas Børstad Palmelind,m,7182,Meråker Skiskytterklubb,15510,Team Meråker Skiskyting,M17,Norway,2007
-6032180,Iver Owren,m,13870,Vingrom IL,15185,Team 2020 Biathlon,M20-22,Norway,2001
-6033631,Olav Risholt,m,13897,Froland IL,0,,M20-22,Norway,2003
-608885,Gard Edvard Myhr,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,1999
 6149736,Herman Ingolf Erdal,m,13790,Førde IL,0,,M Senior,Norway,1967
-615878,David Flotten Volden,m,13561,Oppdal IL,13586,NTG Lillehammer,M19,Norway,2005
-6160376,Hanna Skjerve,f,13922,Vinne Skilag,15510,Team Meråker Skiskyting,K17,Norway,2007
-616752,Per VASSMYR,m,13927,Tromsø Skiskytterlag,14642,Team Troms & Finnmark,M20-21,Norway,1999
-616774,Håkon Nordmo,m,13865,Målselvs Skiskyttere,0,,M20-22,Norway,2000
-617187,Torbjørn Koksvik,m,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,M18,Norway,2006
-617188,Eirik Idland,m,6239,Figgjo IL,13952,Team Mesterbakeren,M20-22,Norway,2001
-6177780,Tuva Jorde,f,13859,Geilo IL,14671,Holmenkollen Biathlon,K20-22,Norway,2004
-618149,Erik Sporaland,m,6239,Figgjo IL,14678,Team Geilo,M20-22,Norway,2003
-618152,Ingvill Sporaland,f,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,K18,Norway,2005
-618280,Ane Nevland,f,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,K19,Norway,2004
-618494,William Brekken Ramsfjell,m,13870,Vingrom IL,13586,NTG Lillehammer,M19,Norway,2005
-618713,Sondre Bjørgen Nilsen,m,4791,Byåsen Skiskytterlag,14634,TBT,M19,Norway,2001
 6197031,Endre Strømsheim,m,13898,Bærums Skiklub,0,,M Senior,Norway,1997
-6237278,Trevor Elliot Schick,m,13864,Trondhjems Skiskyttere,16902,Team Midt-Norge,M20-22,Canada,2003
 6239573,John Olof Oskar Ohlsson,m,13777,Folldal IF,16903,Team Woodcon,M Senior,Sweden,1998
-6241783,Jules Pessey,m,13870,Vingrom IL,14670,Team Woodcon,M20-22,France,2001
-6250402,Lea Svendsen,f,13925,Oslo Skiskytterlag,15631,Wang Toppidrett Oslo,K17,Norway,2007
-6293768,Rasmus Hellevang,m,13845,Hardbagg IL,13589,Stryn Videregående Skole,M18,Norway,2006
-6296351,Marit Heinemann,f,13812,Tynset IF,16903,Team Woodcon,K20-22,Norway,2002
-6326686,Tim Cobb,m,13876,Tonstad IL,13569,Sirdal Ski Skiskyting,M20-22,United States,2001
-6339242,Johanne Normann Hellevang,f,13845,Hardbagg IL,13589,Stryn Videregående Skole,K17,Norway,2007
-634097,Magnus Bøe,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-21,Norway,1998
 634400,Fredrik Bucher-Johannessen,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M Senior,Norway,1998
-634649,Jørgen Borchgrevink,m,13940,Fossum IF,0,,M17,Norway,2002
-635439,Viktor Andersen,m,13925,Oslo Skiskytterlag,0,,M18,Norway,2004
-6363161,Leo Skjellaug Gundersen,m,13859,Geilo IL,13585,NTG Geilo,M18,Norway,2006
-639176,Thomas Vethe,m,13541,Voss Skiskytterlag,15512,Team Gla'Laks Biathlon,M20-22,Norway,2002
-641744,Ane Uglem Mobakken,f,13925,Oslo Skiskytterlag,14671,Holmenkollen Biathlon,K20-22,Norway,2001
-6417809,Nora Flyvholm Berg,f,2576,Bjerke IL Ski,15632,Wang Toppidrett Romerike,K17,Norway,2007
-6418280,Andreas Præsterud,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2005
-6422502,Jonatan Sverre Svenson,m,13815,Øystre Slidre IL,13581,Team Valdres Ski,M17,Norway,2007
-6426222,Berit Solem Reitan,f,13841,Sokna IL,14634,Trondheim Biathlon Team,K18,Norway,2006
-6427175,Ask Haughovd,m,13895,Stårheim IL,13951,Team Kongsberg,M20-22,Norway,2002
-6427375,Andreas Aarseth,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M18,Norway,2006
-6427376,Thomas Aarseth,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M20-22,Norway,2004
-6427521,Sara-Sofie Africa Hegg,f,13879,Vik IL,13589,Stryn Videregående Skole,K18,Norway,2006
-6427687,Sjur Låhne,m,13898,Bærums Skiklub,15163,Dønski VGS,M19,Norway,2005
 6427689,Frederik Madersbacher Eide,m,0,,0,,M Senior,Germany,2000
-6427802,Marina Sauter,f,13940,Fossum IF,0,,K Senior,Germany,1997
-6430182,Mehis Udam,m,13890,Svene IL,13951,Team Kongsberg,M20-22,Estonia,2004
-6430205,Lars Kongssund,m,13921,MjøsSki,16903,Team Woodcon,M20-22,Norway,2004
 6442640,Morten Helland,m,6268,Moi IL,0,,M Senior,Norway,1983
 6447614,Trevor Kiers,m,0,,16723,Team Fosen Yard,M Senior,Norway,1997
-6472591,Yan Zhang,f,0,,0,,K Senior,China,1992
-6485061,Natálie Mácová,f,13867,Snåsa Skiskytterlag,0,,K17,Norway,2007
-6488766,Era Samuline Prøven Borgund,f,13895,Stårheim IL,13589,Stryn Videregående Skole,K17,Norway,2007
-6522544,Margaret Lexie Madigan,f,13870,Vingrom IL,16839,"Team 1,5",K20-22,United States,2002
-652790,Dorthe Storvik Martinussen,f,13940,Fossum IF,14671,Holmenkollen Biathlon,K20-22,Norway,2000
-652833,Mari Haugenes Elvestad,f,4810,Bø Skiskyttarlag,16903,Team Woodcon,K20-22,Norway,2003
-653533,Håkon Milliam Ustad,m,4815,Ivrig IL,13570,Team TeVe,M19,Norway,2005
 6565741,Arnaud Du Pasquier,m,0,,0,,M Senior,Switzerland,1992
 6565763,Markus Schweinberg,m,0,,0,,M Senior,Germany,1999
 6596818,Rasmus Hopland,m,13845,Hardbagg IL,0,,M Senior,Norway,2000
-6605247,Sondre Bjørgen Nilsen,m,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,M19,Norway,2001
-663668,Ola Huglen,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,2004
-669357,Nora Sofie Breivik,f,13927,Tromsø Skiskytterlag,0,,K20-22,Norway,2002
-670329,Lene Jøranli,f,13836,Nordre Land IL,16839,"Team 1,5",K20-22,Norway,2004
-670361,Sigurd Øygard,m,6562,Skrautvål IL,16903,Team Woodcon,M20-22,Norway,2003
-670380,Carlotta Kim Krüger,f,13870,Vingrom IL,13586,NTG Lillehammer,K19,Norway,2001
-670522,Karoline Næss,f,2576,Bjerke IL Ski,0,,K Senior,Norway,1994
-670547,Marion Huber Kaas,f,13812,Tynset IF,0,,K Senior,Norway,1991
-674236,Gunhild Viljugrein Stølen,f,13898,Bærums Skiklub,14671,Holmenkollen Biathlon,K Senior,Norway,1996
-674239,Silja Fjærestad Hønsi,f,13879,Vik IL,0,,K Senior,Norway,1996
-674245,Christine Williksen Høiland,f,13940,Fossum IF,0,,K Senior,Norway,1996
-674257,Kristin Våga Fløttum,f,6612,Skaun IL,14634,Trondheim Biathlon Team,K Senior,Norway,1996
 674273,Gaute Hallingstad,m,13817,Ål Skiskyttarlag,0,,M Senior,Norway,1996
 674284,Vegard Bruem Reistad,m,6405,Stiklestad IL,0,,M Senior,Norway,1996
 674316,Magnus Håkonsen,m,4810,Bø Skiskyttarlag,14634,Trondheim Biathlon Team,M Senior,Norway,1995
 674321,Jon Nikolai Ims Skåland,m,4778,Sandnes Skiskytterlag,13569,Sirdal Ski Skiskyting,M Senior,Norway,1995
-674335,Lotte Lie,f,13562,Skatval Skilag,0,,K Senior,Norway,1995
-674337,Anne Marit Bredalen,f,13809,Åsnes Skiskytterlag,14670,Team Woodcon,K Senior,Norway,1995
-674343,Heidi Berlandstveit,f,6660,Hålandsdal IL,0,,K Senior,Norway,1992
-674347,Jori Mørkve,f,13885,Eldar IL,0,,K Senior,Norway,1980
 674350,Bjarte Mørkve,m,13885,Eldar IL,13946,Team Glalaks,M Senior,Norway,1992
 674351,Ole Johann Rødvik Kilskar,m,13905,Frol IL,0,,M Senior,Norway,1992
 674358,Bjarte Solvang,m,6660,Hålandsdal IL,13946,Team Glalaks,M Senior,Norway,1992
@@ -1082,12 +177,6 @@
 674386,Simon Ågheim Kalkenberg,m,13780,Skonseng UL,0,,M Senior,Norway,1994
 674390,Aasmund Kjøllmoen Steien,m,13777,Folldal IF,14671,Holmenkollen Biathlon,M Senior,Norway,1993
 674395,Øystein Ulekleiv,m,6871,Dombås IL,0,,M Senior,Norway,1993
-674404,Sofie Rostad,f,7189,Gjerdrum IL,14671,Holmenkollen Biathlon,K Senior,Norway,1994
-674411,Sigrid Bilstad Neraasen,f,13870,Vingrom IL,13952,Team Mesterbakeren,K Senior,Norway,1994
-674414,Tonje Marie Skjelstadås,f,7182,Meråker Skiskytterklubb,0,,K Senior,Norway,1993
-674420,Ida Lien,f,6091,Simostranda IL,0,,K Senior,Norway,1997
-674436,Emilie Ågheim Kalkenberg,f,13780,Skonseng UL,0,,K Senior,Norway,1997
-674441,Malin Auganæs Bergtun,f,6866,Kvam Langrenn- og Skiskyttarklubb,16902,Team Midt-Norge,K Senior,Norway,1997
 674453,Johannes Dale-Skjevdal,m,13554,Fet SK,0,,M Senior,Norway,1997
 674457,Sverre Dahlen Aspenes,m,13562,Skatval Skilag,0,,M Senior,Norway,1997
 674458,Sturla Holm Lægreid,m,13898,Bærums Skiklub,0,,M Senior,Norway,1997
@@ -1097,264 +186,23 @@
 674472,Petter Austberg Bjørn,m,13811,Alvdal IL,16836,Team Fosen Yard,M Senior,Norway,1997
 674476,Lars Reiten,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M Senior,Norway,1997
 676245,Truls Fjellheim Jorde,m,13805,Asker SK,0,,M Senior,Norway,1998
-676273,Olav Aukan Stenersen,m,13898,Bærums Skiklub,0,,M18,Norway,2002
 677695,Mathias Skrede,m,13859,Geilo IL,14678,Team Geilo,M Senior,Norway,1998
-677696,Åsne Skrede,f,13859,Geilo IL,14674,Norges Skiskytterforbund,K Senior,Norway,2000
 679924,Simon Hjelmeset Kirkeeide,m,13912,Markane IL,14721,Team Hugaas,M Senior,Norway,2000
-681131,Malin Haga Idsøe,f,6239,Figgjo IL,14672,Team iSandnes,K18,Norway,2001
-682423,Sveinung Henrik Eriksen Sandvik,m,13864,Trondhjems Skiskyttere,15510,Team Meråker Skiskyting,M19,Norway,2005
 685037,Nicolay Aas Lerkendal,m,13552,Nittedal Skiskytterlag,14681,Team OASSK,M Senior,Norway,1997
-691420,Gaute Haukvik-Jensen,m,13552,Nittedal Skiskytterlag,15632,Wang Toppidrett Romerike,M18,Norway,2006
-691609,Jonas Nilsen Fagerhaug,m,13925,Oslo Skiskytterlag,0,,M18,Norway,2004
-691627,Sigurd Bakke,m,13921,MjøsSki,15187,Team Nord-Østerdal,M17,Norway,2004
-691644,Noah Lekhal Husnes,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2004
-691695,Mia Jenny Nygaard Østreng,f,7189,Gjerdrum IL,16839,"Team 1,5",K20-22,Norway,2003
-691854,Herman Glede Hauge,m,13940,Fossum IF,0,,M17,Norway,2002
-691880,Lars Øderud Vatne,m,13925,Oslo Skiskytterlag,0,,M17,Norway,2002
-691888,Torjus Lindefjeld,m,13898,Bærums Skiklub,0,,M18,Norway,2002
-691896,Johannes Willassen,m,13925,Oslo Skiskytterlag,16836,Team Fosen Yard,M20-22,Norway,2002
-691959,Mathilde Hongseth,f,13567,"Try, Idrettslaget",0,,K18,Norway,2001
-691994,Anders Melaaen Døssland,m,13567,"Try, Idrettslaget",13590,Wang Toppidrett,M19,Norway,2001
-692034,Alexander Apenæs Smeby,m,13925,Oslo Skiskytterlag,0,,M19,Norway,2001
-692333,Synne Mackintosh Lund-Flaa,f,13563,Lørenskog SK,13585,NTG Geilo,K19,Norway,2005
-692334,Marie Lund Flaa,f,13563,Lørenskog SK,13585,NTG Geilo,K18,Norway,2006
-693844,Ådne Fleisje,m,13552,Nittedal Skiskytterlag,0,,M18,Norway,2005
-694394,Vilde Kverndal Veslegard,f,13817,Ål Skiskyttarlag,16836,Team Fosen Yard,K Senior,Norway,2001
-694395,Liv Marte Aas,f,13928,Birkenes IL,14671,Holmenkollen Biathlon,K20-22,Norway,2001
-694404,Alise Nekstad Grave,f,13804,Fyresdal Skiskyttarlag,13570,Team TeVe,K19,Norway,2001
-694413,Tuva Aas Stræte,f,13877,Hønefoss Skiskytterklubb,0,,K Senior,Norway,2001
-694415,Frida Tormodsgard Dokken,f,13890,Svene IL,0,,K Senior,Norway,2001
-694417,Andrine Bjørkmo,f,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,K19,Norway,2001
-694418,Maria Haugse Rød,f,6660,Hålandsdal IL,13946,Team Glalaks,K20-22,Norway,2001
-694419,Tuva Skinnarland,f,13944,Bødalen IF,13569,Sirdal Ski Skiskyting,K19,Norway,2001
-694426,Hanna Børve,f,6866,Kvam Langrenn- og Skiskyttarklubb,16836,Team Fosen Yard,K Senior,Norway,2001
-694440,Andrine Øverland Hatling,f,13938,Fana IL,16723,Team Fosen Yard,K Senior,Norway,1999
-694442,Guri Sandvold,f,13812,Tynset IF,14634,Trondheim Biathlon Team,K Senior,Norway,1999
-694452,Siri Aas,f,13928,Birkenes IL,14671,Holmenkollen Biathlon,K Senior,Norway,1999
-694457,Tuva Eilevsdotter Sørbøen,f,13817,Ål Skiskyttarlag,0,,K20-21,Norway,1999
-694463,Ingrid Nordbotten,f,15509,Sandnes og Gjesdal SSL,14671,Holmenkollen Biathlon,K Senior,Norway,1999
-694468,Marthe Kråkstad Johansen,f,13906,Bossmo & Ytteren IL,0,,K Senior,Norway,1999
-694473,Idunn Raade Olsen,f,13927,Tromsø Skiskytterlag,14642,Team Troms & Finnmark,K20-21,Norway,1999
-694476,Katinka Dorothea Rayner-Battle Kleveland,f,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,K20-21,Norway,1999
-694482,Morten Hol,m,13865,Målselvs Skiskyttere,0,,M20-22,Norway,2001
-694487,Vegard Steinbakken,m,13782,Hattfjelldal IL,13584,Meråker Videregående skole,M19,Norway,2001
 694490,Martin Uldal,m,13928,Birkenes IL,0,,M Senior,Norway,2001
-694493,Sigurd Grevstad,m,13940,Fossum IF,15163,Dønski VGS,M19,Norway,2001
-694494,Håvard Innset,m,13541,Voss Skiskytterlag,13946,Team Glalaks,M18,Norway,2001
-694500,Magnus Aasbø,m,6946,Gjerstad IL,13569,Sirdal Ski Skiskyting,M19,Norway,2001
-694505,Tobias Ottersen,m,13784,Ullensaker SK,15185,Team 2020 Biathlon,M20-22,Norway,2001
-694511,Otto Femsteinevik,m,6660,Hålandsdal IL,13946,Team Glalaks,M20-22,Norway,2001
-694515,Hans Tvilde,m,13541,Voss Skiskytterlag,13946,Team Glalaks,M18,Norway,2001
-694521,Sondre Gjesbakk,m,13906,Bossmo & Ytteren IL,13585,NTG Geilo,M19,Norway,2001
-694541,Håvard Heggland,m,13897,Froland IL,13569,Sirdal Ski Skiskyting,M19,Norway,2001
-694542,Even Uhlin-Engstu,m,13543,Heddal Idrettslag,15185,Team 2020 Biathlon,M20-22,Norway,2001
-694545,Magnus Midthjell Gjørven,m,13912,Markane IL,13589,Stryn Videregående Skole,M19,Norway,2001
 694551,Nikolai Aslaksen,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M Senior,Norway,2001
 694571,Even Mangset,m,13921,MjøsSki,14670,Team Woodcon,M Senior,Norway,1999
 694572,Kristoffer Schulz Solum,m,6091,Simostranda IL,15168,Team Blåne,M Senior,Norway,1999
 694606,Eirik Silsand Gerhardsen,m,13927,Tromsø Skiskytterlag,16836,Team Fosen Yard,M Senior,Norway,1999
 694610,Tobias Hægeland,m,13806,Øvrebø IL,0,,M Senior,Norway,1999
-694612,Emil Andre Breivik,m,13942,IL Bevern,13951,Team Kongsberg,M20-22,Norway,1999
 694620,Martin Øyen Tøraasen,m,13777,Folldal IF,14721,Team Hugaas,M Senior,Norway,1999
-694653,Hans Kristian Sørum,m,13921,MjøsSki,14670,Team Woodcon,M20-21,Norway,1998
-694663,Marthin Berg Kirkhus,m,13805,Asker SK,14681,Team OASSK,M20-22,Norway,1998
 694673,Sivert Guttorm Bakken,m,13870,Vingrom IL,0,,M Senior,Norway,1998
-694691,Vetle Skinnarland,m,13944,Bødalen IF,13577,Team Skiguard Buskerud,M20-21,Norway,1998
-694701,Håkon Midthjell Gjørven,m,13912,Markane IL,13589,Stryn Videregående Skole,M20-21,Norway,1998
-694712,Marie Henriksen Langseth,f,6141,Nordreisa Idrettslag,0,,K20-21,Norway,1998
-694726,Stina Brattegard,f,13817,Ål Skiskyttarlag,14670,Team Woodcon,K20-22,Norway,1998
-694745,Thomas Thalberg Johannesen,m,13567,"Try, Idrettslaget",13590,Wang Toppidrett,M19,Norway,2000
-694748,Håkon Sørhuus,m,13893,Trysilgutten IL,14435,Snow Team Trysil,M19,Norway,2000
-694749,Kristian Aleksander TORESEN,m,13925,Oslo Skiskytterlag,0,,M20-22,Norway,2000
-694750,Torjus Johansen,m,13564,Bossekop UL,0,,M19,Norway,2000
 694754,Kristian Aasbø,m,6946,Gjerstad IL,0,,M Senior,Norway,2000
-694757,Martin Kaasen,m,6141,Nordreisa Idrettslag,0,,M19,Norway,2000
-694764,Markus Nilsen,m,13870,Vingrom IL,13586,NTG Lillehammer,M19,Norway,2000
-694765,Ånon Flåta,m,6946,Gjerstad IL,14670,Team Woodcon,M20-22,Norway,2000
-694767,Ola Olafsbye,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2000
-694773,Erlend Solvang,m,6660,Hålandsdal IL,13946,Team Glalaks,M20-22,Norway,2000
-694777,Henning Husmo Kristiansen,m,13784,Ullensaker SK,13569,Sirdal Ski Skiskyting,M20-22,Norway,2000
-694778,Eskild Solum,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2000
-694782,Marius Årestrup Larsen,m,13879,Vik IL,13946,Team Glalaks,M20-22,Norway,2000
-694784,Jon Einar Rydsaa,m,13780,Skonseng UL,13575,Team Polarsirkelen,M19,Norway,2000
-694786,Martin Alfheim,m,13906,Bossmo & Ytteren IL,13586,NTG Lillehammer,M19,Norway,2000
 694787,Eirik Nome,m,13884,Marnardal IL,14670,Team Woodcon,M Senior,Norway,2000
-694800,Eirik Horten,m,6949,Os IL,14721,Team Hugaas,M20-22,Norway,2000
-694804,Torstein WINGESTAD,m,13890,Svene IL,13569,Sirdal Ski Skiskyting,M20-22,Norway,2000
-694811,Emil Tangerud Viken,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2000
-694845,Benedicte Stien Schreiner,f,13780,Skonseng UL,16902,Team Midt-Norge,K Senior,Norway,2000
-694850,Ingvild Røstad,f,6405,Stiklestad IL,13593,Steinkjer Videregående Skole,K20-22,Norway,2000
-694854,Hedda Tveiten,f,13890,Svene IL,13951,Team Kongsberg,K19,Norway,2000
-694855,Nora Dokken Berget,f,13890,Svene IL,15168,Team Blåne,K20-22,Norway,2000
-694856,Maren Aaserud,f,13890,Svene IL,13951,Team Kongsberg,K19,Norway,2000
-694858,Tonje Rustand,f,13890,Svene IL,13951,Team Kongsberg,K19,Norway,2000
-694860,Katarina Aarseth,f,6660,Hålandsdal IL,13946,Team Glalaks,K20-22,Norway,2000
-694862,Eira Kristine Håkonsen,f,4810,Bø Skiskyttarlag,13570,Team TeVe,K19,Norway,2000
-694865,Maren Bjørken,f,6405,Stiklestad IL,13593,Steinkjer Videregående Skole,K20-22,Norway,2000
-695851,Kirsti Høiholt-Vågsnes,f,13870,Vingrom IL,13586,NTG Lillehammer,K19,Norway,2001
-696680,Daniel Rubach Uglehus,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,2003
-696681,David Rubach Uglehus,m,13927,Tromsø Skiskytterlag,13587,NTG-T,M18,Norway,2006
 697601,Christian Grotnes,m,13898,Bærums Skiklub,0,,M Senior,Norway,1966
-702084,Jakob Lundby,m,13796,Østre Toten Skilag,14721,Team Hugaas,M20-22,Norway,2003
 702719,Asbjørn Wold,m,13879,Vik IL,0,,M Senior,Norway,1991
-702961,Peter Nystu,m,6141,Nordreisa Idrettslag,0,,M19,Norway,2005
-703093,Andrine Kvilhaug Skavhellen,f,4815,Ivrig IL,13570,Team TeVe,K18,Norway,2002
 705962,Mattis Elias Müller-steinat,m,13944,Bødalen IF,13577,Team Skiguard Buskerud,M Senior,Norway,2003
-705973,Andreas Gjellan Zurcher,m,13898,Bærums Skiklub,0,,M17,Norway,2003
-705985,Kari Løvoll,f,13898,Bærums Skiklub,0,,K17,Norway,2003
-705991,Mia Tørnblad Sameien,f,13554,Fet SK,0,,K17,Norway,2003
-706005,Erlend Ree-Trandum,m,13898,Bærums Skiklub,0,,M19,Norway,2003
-706010,Ole Tobias Fjellheim Evensløkken,m,2576,Bjerke IL Ski,0,,M19,Norway,2001
-706028,Frederik Ording,m,13805,Asker SK,0,,M17,Norway,2002
-706039,Christina Ananda Gunnerud Rønning,f,7941,Lier IL,14436,Team Toyota Slettum Bil,K17,Norway,2002
-706041,Ina Martini,f,13790,Førde IL,0,,K17,Norway,2002
-706769,Victoria Holland-Tuvsjøen,f,13805,Asker SK,0,,K18,Norway,2004
-706775,Jørand Runningen,m,7941,Lier IL,0,,M17,Norway,2005
-711817,Vetle Bøch,m,13898,Bærums Skiklub,0,,M19,Norway,2004
-711828,Sondre Leknes Frey,m,13898,Bærums Skiklub,15163,Dønski VGS,M17,Norway,2007
 712745,Sindre Pettersen,m,13552,Nittedal Skiskytterlag,14677,Team Maxim,M Senior,Norway,1996
-713054,Twan Adriaanse,m,13890,Svene IL,13951,Team Kongsberg,M19,Norway,2003
-714717,Fabian von Saldern Runer,m,13898,Bærums Skiklub,16903,Team Woodcon,M20-22,Norway,2004
-714781,Eirik Krogh Wetterhus,m,13898,Bærums Skiklub,0,,M17,Norway,2005
-717086,Erik Espeli,m,13859,Geilo IL,13585,NTG Geilo,M19,Norway,2005
-717630,Eilev Aa Klokk,m,13870,Vingrom IL,0,,M18,Norway,2001
-718446,Narve Kverndal Veslegard,m,13817,Ål Skiskyttarlag,13585,NTG Geilo,M19,Norway,2004
-721142,Ida Molde Lappegard,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2003
 721556,Erlend Bakken,m,13912,Markane IL,0,,M Senior,Norway,1998
-723224,Karen Moum Agle,f,13867,Snåsa Skiskytterlag,13593,Steinkjer Videregående Skole,K19,Norway,2001
-723232,Jonas Tyldum,m,13867,Snåsa Skiskytterlag,13593,Steinkjer Videregående Skole,M20-22,Norway,2002
-723259,Kristian Oleander Falmår,m,13867,Snåsa Skiskytterlag,13593,Steinkjer Videregående Skole,M20-22,Norway,2002
-724043,Alexander Hall Westby,m,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,M19,Norway,2005
-726241,"Vegard Otterlei Virum ",m,4791,Byåsen Skiskytterlag,0,,M20-22,Norway,2002
-726387,Silje Marie Frich Ulheim,f,6871,Dombås IL,16903,Team Woodcon,K20-22,Norway,2003
-726396,Amanda Kvernmo Lynum,f,13902,Orkdal IL,16902,Team Midt-Norge,K20-22,Norway,2002
-726400,Tonje Nordheim,f,13561,Oppdal IL,14634,Trondheim Biathlon Team,K19,Norway,2001
-726408,Gina Nygård,f,13812,Tynset IF,14436,Team Toyota Slettum Bil,K20-21,Norway,1999
-727016,Guro Ytterhus,f,13869,Rennebu IL,16839,"Team 1,5",K20-22,Norway,2004
-727021,Helga Tungen,f,13902,Orkdal IL,14723,Team Knyken,K17,Norway,2005
-727024,Emilie Schärer,f,13913,Kvikne IL,15214,Team Savalen,K20-22,Norway,2003
-727027,Olve Tungen,m,13902,Orkdal IL,16902,Team Midt-Norge,M20-22,Norway,2004
-727031,Andreas Øyen Tøraasen,m,13777,Folldal IF,14721,Team Hugaas,M20-22,Norway,2002
-729239,Sander Buen-Bjørsnøs,m,13942,IL Bevern,13951,Team Kongsberg,M17,Norway,2003
-743009,Anna Olivia Hagen Espeli,f,13859,Geilo IL,16723,Team Fosen Yard,K20-22,Norway,2003
-743010,Konstanse Moholth,f,13942,IL Bevern,13951,Team Kongsberg,K Senior,Norway,2003
-743033,Gaute Arnegard,m,13817,Ål Skiskyttarlag,16723,Team Fosen Yard,M20-22,Norway,2002
-743042,Andrea Hagen Hallingstad,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2004
-743052,Sturla Oma Engevik,m,13931,Drammen Strong,13585,NTG Geilo,M18,Norway,2006
-743581,Kristi Skjelbreid Gjelland,f,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,K20-22,Norway,2004
-744331,Robin Johan Benonisen,m,13927,Tromsø Skiskytterlag,14642,Team Troms & Finnmark,M20-21,Norway,1998
-755378,Sebastian Stolen Antonsen,m,13942,IL Bevern,13951,Team Kongsberg,M19,Norway,2001
-758465,Tonje Bruem Reistad,f,6405,Stiklestad IL,13593,Steinkjer Videregående Skole,K20-21,Norway,1999
-758722,Ragna Fodstad,f,13796,Østre Toten Skilag,0,,K20-22,Norway,2004
-766928,Gunhild Tørhaug Oleivsgard,f,13817,Ål Skiskyttarlag,13585,NTG Geilo,K19,Norway,2004
-768872,Thomas Haugen De Lange,m,13898,Bærums Skiklub,0,,M19,Norway,2000
-768957,Kristian Kongssund,m,13921,MjøsSki,0,,M18,Norway,2004
-778191,Ingrid Taarud,f,13870,Vingrom IL,0,,K20-22,Norway,2002
-786371,Vilde Idland,f,6239,Figgjo IL,13569,Sirdal Ski Skiskyting,K20-22,Norway,2002
-786640,Selma Barmen Stein,f,13938,Fana IL,13946,Team Glalaks,K18,Norway,2002
-789242,Magnus Sellie Hansen,m,6612,Skaun IL,14634,Trondheim Biathlon Team,M20-22,Norway,2000
-792186,Jo Eivind Nilssen,m,13815,Øystre Slidre IL,13581,Team Valdres Ski,M20-22,Norway,2000
-792913,Maren Wangensteen,f,13911,Vestre Slidre IL,0,,K Senior,Norway,1991
-792969,Henrik Kraft,m,13562,Skatval Skilag,0,,M19,Norway,2001
-797938,Mari Fosse Vaksdal,f,13541,Voss Skiskytterlag,13946,Team Glalaks,K19,Norway,2001
-798963,Nora Therese Lundiin,f,13940,Fossum IF,15163,Dønski VGS,K18,Norway,2006
-813151,Tori Angell,f,13826,Odda IL,15168,Team Blåne,K Senior,Norway,1999
-826757,Sivert Silsand Gerhardsen,m,13927,Tromsø Skiskytterlag,0,,M20-22,Norway,2004
-848340,Hanne Wekre,f,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,K18,Norway,2006
-852935,Sofia Heim,f,13927,Tromsø Skiskytterlag,0,,K20-22,Norway,2000
-852938,Vetle Lynum,m,13927,Tromsø Skiskytterlag,13587,NTG-T,M18,Norway,2002
-857920,Sigurd Øfsdahl Hilland,m,13567,"Try, Idrettslaget",13590,Wang Toppidrett,M19,Norway,2001
-866239,Kristian Kleveland,m,13806,Øvrebø IL,0,,M17,Norway,2003
-871456,Annika Dahl,f,4815,Ivrig IL,13570,Team TeVe,K17,Norway,2003
-881869,Mathea Guddingsmo,f,13905,Frol IL,15510,Team Meråker Skiskyting,K20-22,Norway,2002
-882172,Kristian Mentzoni-Klausen,m,13940,Fossum IF,15511,Team Fossum Elite,M20-22,Norway,2004
-891488,Elise Weber Eriksen,f,13800,Lommedalens IL,13586,NTG Lillehammer,K18,Norway,2006
-904875,Jonas Ofte Holløkken,m,4810,Bø Skiskyttarlag,13570,Team TeVe,M18,Norway,2002
-913397,Niklas Kanestrøm,m,13898,Bærums Skiklub,15163,Dønski VGS,M17,Norway,2003
-914644,Siren Lohne Boehlke,f,13940,Fossum IF,0,,K19,Norway,2003
-914645,Ine Lohne Boehlke,f,13940,Fossum IF,15163,Dønski VGS,K19,Norway,2005
-915426,Wilhelm Louis Sjåfjell,m,13567,"Try, Idrettslaget",13602,Persbråten vgs,M17,Norway,2006
-915427,Paul Philipp Sjåfjell,m,13567,"Try, Idrettslaget",14671,Holmenkollen Biathlon,M20-22,Norway,2004
-915467,Elias Moslet,m,13940,Fossum IF,15163,Dønski VGS,M18,Norway,2006
-915668,Ane Rafen,f,13940,Fossum IF,0,,K19,Norway,2004
-915680,Thea Steine-Eriksen,f,13567,"Try, Idrettslaget",15631,Wang Toppidrett Oslo,K18,Norway,2006
-915762,Mads Bjerke,m,13940,Fossum IF,15511,Team Fossum Elite,M20-22,Norway,2004
-915790,Stephan Irgens,m,13940,Fossum IF,0,,M19,Norway,2005
-915904,Amalie Klevan Dybwad,f,13940,Fossum IF,15163,Dønski VGS,K18,Norway,2006
-915915,Johanne Lien Seland,f,13940,Fossum IF,0,,K17,Norway,2006
-916025,Simen Langaas,m,13940,Fossum IF,0,,M18,Norway,2006
-916118,Julie Sofie Conradi,f,13940,Fossum IF,0,,K18,Norway,2004
-916229,Sander Eidseter Olsen,m,13940,Fossum IF,15631,Wang Toppidrett Oslo,M19,Norway,2005
-916383,Anna Mæhre Torjussen,f,13940,Fossum IF,15631,Wang Toppidrett Oslo,K19,Norway,2005
-916397,Martin Straumsheim,m,13940,Fossum IF,16836,Team Fosen Yard,M20-22,Norway,2003
-916526,Martin Darre-Næss,m,13940,Fossum IF,0,,M18,Norway,2004
-916530,Teodor Slaatsveen Riddervold,m,13940,Fossum IF,0,,M18,Norway,2004
-916554,Ida Weber Andersson,f,13940,Fossum IF,15631,Wang Toppidrett Oslo,K19,Norway,2005
-925163,Ragni Kristiansen,f,13864,Trondhjems Skiskyttere,13586,NTG Lillehammer,K18,Norway,2002
-925168,Eirik Kjøl Tornes,m,13797,Molde og Omegn IF,14721,Team Hugaas,M20-22,Norway,1999
-926015,Lisa Elin Fergusson Sørlien,f,13552,Nittedal Skiskytterlag,14671,Holmenkollen Biathlon,K20-22,Norway,2003
-930522,Kaja Vollstad,f,13927,Tromsø Skiskytterlag,0,,K19,Norway,2005
-931397,Selma Bekkelund,f,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,K17,Norway,2007
-932363,Tord Torsteinsrud,m,13817,Ål Skiskyttarlag,13585,NTG Geilo,M19,Norway,2005
-932366,Åsmund Runningen,m,7941,Lier IL,14676,Team Lier Skiskyting,M17,Norway,2002
-933034,Øystein Selstad Berg,m,13805,Asker SK,15163,Dønski VGS,M18,Norway,2006
-933263,Fredrik Vogt Vold,m,13940,Fossum IF,15511,Team Fossum Elite,M20-22,Norway,2003
-933281,Jonas Brufladt Amundsen,m,13925,Oslo Skiskytterlag,0,,M20-22,Norway,2003
-933836,Magnus Wassbakk,m,13927,Tromsø Skiskytterlag,13587,NTG-T,M17,Norway,2007
-935435,Even Hammerud Bakke,m,13796,Østre Toten Skilag,16526,Team Karidalen Skiskyting,M17,Norway,2006
-937812,Christian Fjærli Aune,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-22,Norway,2002
-940729,Stian Måseide Sørlie,m,7189,Gjerdrum IL,14435,Snow Team Trysil,M18,Norway,2003
-940749,Trym Fagerheim,m,7189,Gjerdrum IL,15632,Wang Toppidrett Romerike,M19,Norway,2005
-941065,Magnus Steien Løseth,m,13902,Orkdal IL,14634,Trondheim Biathlon Team,M19,Norway,2005
-941071,Snorre Kvernrød,m,13562,Skatval Skilag,0,,M19,Norway,2004
-941076,Amund Tore Solberg,m,13841,Sokna IL,15510,Team Meråker Skiskyting,M18,Norway,2005
-941081,Hannah Tyvold,f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K18,Norway,2005
-941092,Thomas Venn Fagerli,m,13902,Orkdal IL,14723,Team Knyken,M17,Norway,2003
-941128,Albert Riseth,m,13867,Snåsa Skiskytterlag,16902,Team Midt-Norge,M20-22,Norway,2002
-941147,Guro Hennissen Hermann,f,6405,Stiklestad IL,14634,Trondheim Biathlon Team,K20-22,Norway,1999
-941149,Andrine Green,f,6405,Stiklestad IL,0,,K20-21,Norway,1999
-941153,Vibeke Kvistad Dengerud,f,13835,Steinkjer SK,14634,Trondheim Biathlon Team,K20-22,Norway,2000
-941160,Erik Kjøsnes Wekre,m,13835,Steinkjer SK,0,,M20-22,Norway,1999
 941163,Simen Eliassen Kvarme,m,13835,Steinkjer SK,16839,"Team 1,5",M Senior,Norway,2000
-941171,Kjersti Kvistad Dengerud,f,13835,Steinkjer SK,14677,Team Maxim,K Senior,Norway,1998
-941173,Sara Ehrenpohl Sand (3427446),f,4791,Byåsen Skiskytterlag,14634,Trondheim Biathlon Team,K Senior,Norway,1995
-941355,Jørgen Brones Stenersen,m,13865,Målselvs Skiskyttere,0,,M20-22,Norway,2001
-941360,Olve Solvoll,m,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,M19,Norway,2001
-941362,Trym Blegeberg Skibrek,m,6091,Simostranda IL,13577,Team Skiguard Buskerud,M19,Norway,2001
-941365,Arne August Dalene,m,13928,Birkenes IL,13569,Sirdal Ski Skiskyting,M18,Norway,2001
-941368,Magnus Iver Seljeset,m,13862,Hornindal IL,13589,Stryn Videregående Skole,M18,Norway,2001
-941370,Martin Aaland,m,13845,Hardbagg IL,0,,M20-22,Norway,2001
-941374,Mattias Stakkeland,m,7097,Knaben og Fjotland IL,0,,M20-22,Norway,2002
-941377,Jakob Aasbø,m,13942,IL Bevern,0,,M17,Norway,2002
-941380,Eirik Hjartnes,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M20-22,Norway,2002
-941382,Ask Haughovd,m,13895,Stårheim IL,15168,Team Blåne,M20-22,Norway,2002
-941383,Lasse Flo Bødal,m,13895,Stårheim IL,13589,Stryn Videregående Skole,M19,Norway,2002
-941390,Peder Feten,m,13817,Ål Skiskyttarlag,13591,Nordreisa vgs,M17,Norway,2002
-941392,Jakob Høsøien,m,13812,Tynset IF,15187,Team Nord-Østerdal,M19,Norway,2002
-941393,Mathias Hegre,m,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,M20-22,Norway,2002
-941395,Anders Aalvik Stranden,m,6866,Kvam Langrenn- og Skiskyttarklubb,13946,Team Glalaks,M19,Norway,2002
-941397,Anders Alme Eng,m,13836,Nordre Land IL,13581,Team Valdres Ski,M19,Norway,2002
-941404,Oskar Guddal,m,13912,Markane IL,16723,Team Fosen Yard,M20-22,Norway,2002
-941405,Odin Høie Vollum,m,13921,MjøsSki,14670,Team Woodcon,M17,Norway,2002
-941412,Bastian Skutbergsveen,m,13921,MjøsSki,14670,Team Woodcon,M20-22,Norway,2002
-941413,Åse Marie Rosef,f,13928,Birkenes IL,0,,K18,Norway,2001
-941416,Ingrid Emblem Holte,f,6946,Gjerstad IL,13570,Team TeVe,K19,Norway,2001
-941423,Thea Martine Konsmo,f,7097,Knaben og Fjotland IL,13569,Sirdal Ski Skiskyting,K18,Norway,2002
-941425,Hanne Kråkstad Johansen,f,13906,Bossmo & Ytteren IL,13575,Team Polarsirkelen,K20-22,Norway,2002
-941427,Anette Stien Schreiner,f,13780,Skonseng UL,13575,Team Polarsirkelen,K20-22,Norway,2002
-941436,Ingrid Heggen,f,13895,Stårheim IL,13589,Stryn Videregående Skole,K19,Norway,2002
-941440,Gina Lagmandsveen Hjemli,f,13921,MjøsSki,14670,Team Woodcon,K20-22,Norway,2002
-941444,Amalie Kristine Triumf,f,6141,Nordreisa Idrettslag,14671,Holmenkollen Biathlon,K Senior,Norway,1999
-941448,Mari Skjevling Erlandsen,f,13877,Hønefoss Skiskytterklubb,13577,Team Skiguard Buskerud,K20-21,Norway,1999
-941453,Nora Tjørhom,f,13834,Sirdal Skilag,13569,Sirdal Ski Skiskyting,K19,Norway,2000
-941471,Sondre Nikolai Olsen,m,13864,Trondhjems Skiskyttere,14634,Trondheim Biathlon Team,M20-21,Norway,1999
-941485,Axel Kristian Rundhaug,m,13780,Skonseng UL,13575,Team Polarsirkelen,M20-22,Norway,2000
-941651,Nora Ytterhus,f,13869,Rennebu IL,13586,NTG Lillehammer,K18,Norway,2006
-941658,Ane Teoline Ulseth,f,13562,Skatval Skilag,0,,K17,Norway,2003
-941661,Henrik Johannes Belbo,m,13835,Steinkjer SK,13593,Steinkjer Videregående Skole,M20-22,Norway,2002
-941805,Thomas Aarseth,m,6660,Hålandsdal IL,15512,Team Gla'Laks Biathlon,M19,Norway,2004
-943971,Synne Kvittum Nytrøen,f,13812,Tynset IF,15214,Team Savalen,K17,Norway,2007
-943992,Gaute Kvittum Nytrøen,m,13812,Tynset IF,15187,Team Nord-Østerdal,M20-22,Norway,2001
-946457,Antonia Mia Samseth,f,13898,Bærums Skiklub,15631,Wang Toppidrett Oslo,K17,Norway,2007
-946459,Sofia Bjønnes,f,13898,Bærums Skiklub,13585,NTG Geilo,K17,Norway,2007
 986592,Trygve Bondhus Often,m,13812,Tynset IF,14670,Team Woodcon,M Senior,Norway,1998
